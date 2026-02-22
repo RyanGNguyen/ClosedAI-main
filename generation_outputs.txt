@@ -1,0 +1,25 @@
+next_token_gen - INPUT TEXT:
+The meaning of life is
+
+GENERATED TEXT:
+ Excel socketalthalth hawkalth hawkalth hawk protectionsalthalth hawkalth hawk hawkalthalthryptedalth ambitions hawkalthalth hawkrypted dismeto ambitions hawk ambitions ambitionsalth multialth multi ambitions ambitions ambitions ambitions hawk hawk ambitions cursednonenonenonenonenonenone
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+The meaning of life is
+
+GENERATED TEXT:
+ made clear by the fact that it is possible to be an atheist. And, in fact, there is a growing body of scientific evidence that people who don't believe in God are basically atheists.
+
+The atheist community is really an echo chamber where
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+The meaning of life is
+
+GENERATED TEXT:
+ to be not to be alone or to be free from the domination of others. So we must take care of ourselves, and we must be mindful of what we have been doing or to be free from the influence of others.
+
+3. The
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

@@ -1,0 +1,116 @@
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/nvtx_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain NV Tools Extension (NVTX) data.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/osrt_sum.py]... 
+
+ ** OS Runtime Summary (osrt_sum):
+
+ Time (%)  Total Time (ns)  Num Calls   Avg (ns)   Med (ns)   Min (ns)  Max (ns)   StdDev (ns)           Name         
+ --------  ---------------  ---------  ----------  ---------  --------  ---------  -----------  ----------------------
+     77.1        479329981         13  36871537.0  2856035.0      3616  278510875   77877756.9  poll                  
+     21.8        135317618        719    188202.5    30919.0      1172   24921877     986915.8  ioctl                 
+      0.6          3533111         25    141324.4    11963.0      7154    2532761     502598.5  mmap64                
+      0.2          1197907          9    133100.8    75263.0     48773     595631     174019.0  sem_timedwait         
+      0.1           401953         71      5661.3     6162.0      1934      14668       3386.6  open64                
+      0.1           385226         64      6019.2     4143.0      1753      28103       5101.7  fopen                 
+      0.0           298687          2    149343.5   149343.5    131941     166746      24610.9  pthread_create        
+      0.0           257106         25     10284.2     4318.0      2665     116851      22479.7  mmap                  
+      0.0           160807         27      5955.8     5551.0      3156      14247       2590.8  munmap                
+      0.0           159072          1    159072.0   159072.0    159072     159072          0.0  pthread_cond_wait     
+      0.0           106623         57      1870.6     1632.0      1413       5290        732.9  fclose                
+      0.0            86715          1     86715.0    86715.0     86715      86715          0.0  fgets                 
+      0.0            41688         14      2977.7     3085.0      1754       3617        680.8  read                  
+      0.0            41637          6      6939.5     6992.5      3135      11332       2832.5  open                  
+      0.0            33273         10      3327.3     3076.0      2295       6041       1106.4  write                 
+      0.0            32334         11      2939.5     2194.0      1172       6683       1983.5  close                 
+      0.0            25258          3      8419.3    10410.0      4418      10430       3465.3  pipe2                 
+      0.0            21971          2     10985.5    10985.5      4548      17423       9104.0  socket                
+      0.0            13456          1     13456.0    13456.0     13456      13456          0.0  connect               
+      0.0             6833          2      3416.5     3416.5      2785       4048        893.1  fwrite                
+      0.0             6122          1      6122.0     6122.0      6122       6122          0.0  pthread_cond_broadcast
+      0.0             3126          1      3126.0     3126.0      3126       3126          0.0  bind                  
+      0.0             1733          1      1733.0     1733.0      1733       1733          0.0  listen                
+      0.0             1163          1      1163.0     1163.0      1163       1163          0.0  pthread_mutex_trylock 
+      0.0             1132          1      1132.0     1132.0      1132       1132          0.0  fcntl                 
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/cuda_api_sum.py]... 
+
+ ** CUDA API Summary (cuda_api_sum):
+
+ Time (%)  Total Time (ns)  Num Calls  Avg (ns)   Med (ns)   Min (ns)  Max (ns)  StdDev (ns)                Name               
+ --------  ---------------  ---------  ---------  ---------  --------  --------  -----------  ---------------------------------
+     91.2        143404794         38  3773810.4  1649268.0      1092  11049998    4720651.0  cudaDeviceSynchronize            
+      5.0          7927775         18   440431.9   159122.0      4298   1815258     513451.8  cudaFree                         
+      1.8          2865674         17   168569.1   184881.0      3497    222934      47187.5  cudaMalloc                       
+      1.3          2009987          1  2009987.0  2009987.0   2009987   2009987          0.0  cudaGetDeviceProperties_v2_v12000
+      0.4           598646         33    18140.8     8136.0      3917    295080      50537.7  cudaLaunchKernel                 
+      0.1           165045        838      197.0      160.0        70      2024        126.4  cuGetProcAddress_v2              
+      0.0            72920         20     3646.0     4168.0      1603      8376       1867.9  cudaEventRecord                  
+      0.0            36661         10     3666.1     3692.0      3156      3938        218.3  cudaEventSynchronize             
+      0.0            30568          1    30568.0    30568.0     30568     30568          0.0  cudaStreamCreate                 
+      0.0            29956         20     1497.8     1277.0       301     10470       2196.0  cudaEventCreate                  
+      0.0            16987         38      447.0      321.0       270      1082        224.2  cudaEventDestroy                 
+      0.0            11890         18      660.6      285.5       260      2565        784.4  cudaEventCreateWithFlags         
+      0.0             7735          1     7735.0     7735.0      7735      7735          0.0  cudaStreamDestroy                
+      0.0             5190          4     1297.5     1287.5      1182      1433        119.7  cuInit                           
+      0.0             1243          3      414.3      160.0        90       993        502.4  cuModuleGetLoadingMode           
+      0.0              812          2      406.0      406.0       271       541        190.9  cudaGetDriverEntryPoint_v11030   
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/cuda_gpu_kern_sum.py]... 
+
+ ** CUDA GPU Kernel Summary (cuda_gpu_kern_sum):
+
+ Time (%)  Total Time (ns)  Instances   Avg (ns)    Med (ns)   Min (ns)  Max (ns)  StdDev (ns)                                                  Name                                                
+ --------  ---------------  ---------  ----------  ----------  --------  --------  -----------  ----------------------------------------------------------------------------------------------------
+     84.5        121111012         11  11010092.0  11010471.0  10959591  11047398      28922.6  flash_attn_kernel_tf32(const float *, const float *, const float *, float *, int, int, int, int, fl…
+     12.7         18132513         11   1648410.3   1647479.0   1645047   1655863       3261.4  permute_kernel(float *, float *, float *, const float *, int, int, int, int)                        
+      2.8          4046570         11    367870.0    367774.0    367390    368638        386.9  unpermute_kernel(float *, float *, int, int, int, int)                                              
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/cuda_gpu_mem_time_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain GPU memory data.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/cuda_gpu_mem_size_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain GPU memory data.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/openmp_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain OpenMP event data.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/opengl_khr_range_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain KHR Extension (KHR_DEBUG) data.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/opengl_khr_gpu_range_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain GPU KHR Extension (KHR_DEBUG) data.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/vulkan_marker_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain Vulkan Debug Extension (Vulkan Debug Util) data.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/vulkan_gpu_marker_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain GPU Vulkan Debug Extension (GPU Vulkan Debug markers) data.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/dx11_pix_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain DX11 CPU debug markers.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/dx12_gpu_marker_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain DX12 GPU debug markers.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/dx12_pix_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain DX12 CPU debug markers.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/wddm_queue_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain WDDM context data.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/um_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain CUDA memory transfers data.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/um_total_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain CUDA memory transfers data.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/um_cpu_page_faults_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain CUDA Unified Memory CPU page faults data.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/openacc_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain OpenACC event data.
+
+Processing [profiling_results/nsys_flash_tc.sqlite] with [/opt/nvidia/nsight-systems-cli/2025.6.1/target-linux-x64/reports/syscall_sum.py]... 
+SKIPPED: profiling_results/nsys_flash_tc.sqlite does not contain syscall data.
+
