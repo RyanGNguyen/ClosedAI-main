@@ -1,0 +1,1921 @@
+next_token_gen - INPUT TEXT:
+1. Field of the Invention
+The subject invention relates to movable partitions, also known as operable walls and, more particularly, to an improved operable wall system providing improved response to lateral loads.
+2. Description of Related Art
+Operable walls, particularly those used to divide large spaces such as convention centers, ballrooms, and gymnasiums, may be subjected to lateral loading of the wall panels as a result of earthquake or pressure differential between the rooms divided by the operable walls. The wall panels in question can have dimensions of up to 5 feet wide and up to 40 feet high. Loads can reach on the order of 20 pounds per square foot (psf). Based on 5'.times.40' panel dimensions, and 20 psf, the load to be resisted at the top and at the bottom of the panel is 2,000 pounds.
+Such significant lateral loading can occur, for example, between spaces divided by an operable wall in an exhibit area where one of the rooms is adjacent to an exterior wall containing large doors which may be opened during windstorms. The resultant pressure differentials may be large enough to cause suspension components to break and the walls to collapse. The ability of the operable wall panels to resist large lateral loads
+
+GENERATED TEXT:
+ is likely to be as significant as the effect of
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ is limited by the relatively small-diameter, cylindrically-shaped trolley pendent bolts which suspend the operable wall panels from their overhead guide tracks.
+Sliding of the bottom of the panels in response to lateral loads also constitutes a safety hazard for occupants of the space near the panels. The panels can move rather abruptly and without warning in response to such forces, enhancing the likelihood of injury or property damage. According to conventional panel design, resistance to sliding has been dependent upon friction between the flat floor surface and the bottom panel seal. This magnitude of resistance to sliding has proven insufficient in some cases.
+Thus, there exists a need to substantially reduce the possibility of sliding of the panels. There also exists a need to impart significant additional strength to the ability of the top of the panels to resist large lateral loads.
+
+GENERATED TEXT:
+
+The elevator shaft is distinguished by its narrow shape
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+Recommended guidelines for the treatment of cancer treatment-induced diarrhea.
+To update and expand on previously published clinical practice guidelines for the treatment of cancer treatment-induced diarrhea. An expert multidisciplinary panel was convened to review the recent literature and discuss recommendations for updating the practice guidelines previously published by this group in the Journal of Clinical Oncology in 1998. MEDLINE searches were performed and the relevant literature published since 1998 was reviewed by all panel members. The treatment recommendations and algorithm were revised by panel consensus. A recent review of early toxic deaths occurring in two National Cancer Institute-sponsored cooperative group trials of irinotecan plus high-dose fluorouracil and leucovorin for advanced colorectal cancer has led to the recognition of a life-threatening gastrointestinal syndrome and highlighted the need for vigilant monitoring and aggressive therapy for this serious complication. Loperamide remains the standard therapy for uncomplicated cases. However, the revised guidelines reflect the need for recognition of the early warning signs of complicated cases of diarrhea and the need for early and aggressive management, including the addition of antibiotics. Management of radiation-induced diarrhea is similar but may not require hospitalization, and chronic low- to intermediate-grade symptoms can be managed with continued loperamide. With vigilant monitoring
+
+GENERATED TEXT:
+ for at least six weeks, surgical intervention is necessary
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ and aggressive therapy for cancer treatment-induced diarrhea, particularly in patients with early warning signs of severe complications, morbidity and mortality may be reduced.
+
+GENERATED TEXT:
+
+
+The drug had no direct effect on the
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+This class will concentrate on the installation and configuration of the Linux operating system. Students will gain experience by setting up their own individual Linux servers/workstation. The course will teach the student to use the shell to configure a wide arrangement of services. In addition, students will examine the popular X- windows interface, and look at the possibility of a Linux desktop replacing an MS Windows counterpart. It will also cover the principles that have allowed Linux to become a leading edge server software. Students will begin to cover material, which is essential to completing Sair- Linux3XO-101 test.
+
+GENERATED TEXT:
+
+
+The course includes an introduction, a quick
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+One of the key selling points of the Asian Cashew Salad has to be that it clocks in at 380 calories including the vinaigrette.
+
+The dressing isn't the typical sesame-soy-ginger concoction that comes with most Asian salads, but is more like a Thai peanut dressing with a slight kick to it. It's pretty tasty and novel.
+
+Most of the salad's heat comes from the spicy roasted cashews, which remind me a bit of a dry-roasted peanut seasoning but with a lot more spicy heat from cayenne. They provided a medium heat that set my lips tingling. The seasoning and spiciness covered up most of the actual cashew flavor though.
+
+The chicken was moist enough and plentiful, but was not cut very well; they cubed it but all the pieces were still connected and ended up like how some people cut a mango. You might want to grab a knife just in case.
+
+The field greens actually had a fair amount of flavor and were mixed with an equal amount of iceberg lettuce (buried under the field greens), which provided a nice wet crunch. The red peppers added a little bit of flavor added some crunch as well.
+
+The edamame added
+
+GENERATED TEXT:
+ a little bit of sweetness, but was not so
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ texture and some were actually charred a fair bit with the requisite flavor/bitterness.
+
+Overall, Wendy's Asian Cashew Chicken Salad offers an good mix of textures and an interesting departure from the typical Asian salad, while still being enjoyable. Just be warned that there's a sizable amount of heat as far as salads go.
+
+GENERATED TEXT:
+ I did not experience any issues with the heat in
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+---
+abstract: 'In the search engine of Google, the PageRank algorithm plays a crucial role in ranking the search results. The algorithm quantifies the importance of each web page based on the link structure of the web. We first provide an overview of the original problem setup. Then, we propose several distributed randomized schemes for the computation of the PageRank, where the pages can locally update their values by communicating to those connected by links. The main objective of the paper is to show that these schemes asymptotically converge in the mean-square sense to the true PageRank values. A detailed discussion on the close relations to the multi-agent consensus problems is also given.'
+author:
+- |
+    Hideaki Ishii\
+    Department of Computational Intelligence and Systems Science\
+    Tokyo Institute of Technology\
+    4259 Nagatsuta-cho, Midori-ku, Yokohama 226-8502, Japan\
+    E-mail: ishii@dis.titech.ac.jp\
+    Roberto Tempo\
+    CNR-IEIIT, Politecnico di Torino\
+    Corso
+
+GENERATED TEXT:
+-Caribbean: D-C.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ Duca degli Abruzzi 24, 10129 Torino, Italy\
+    E-mail: roberto.tempo@polito.it
+title: |
+    Distributed Randomized Algorithms for\
+    the PageRank Computation[^1] 
+---
+
+Introduction {#sec:intro}
+============
+
+In the last decade, search engines have become widely used indispensable tools for searching the web. For such engines, it is essential that the search results not only consist of web pages related to the query terms, but also rank the pages properly so that the users quickly have access to the desired information. The PageRank algorithm at Google is one of the successful algorithms that quantify and rank the importance of each web page. This algorithm was initially proposed in [@BriPag:98], and an overview can be found in, e.g., [@LanMey:06; @BryLei:06].
+
+One of the main features of the PageRank algorithm is that it is based solely on the link structure inherent in the web. The underlying key idea is that links from important pages make a page more important. More concretely, each page
+
+GENERATED TEXT:
+'s key information is directed towards a particular level of
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ is considered to be voting the pages to which it is linked. Then, in the ranking of a page, the total number of votes as well as the importance of the voters are reflected. This problem is mathematically formulated as finding the eigenvector corresponding to the largest eigenvalue of a certain stochastic matrix associated with the web structure.
+
+For the PageRank computation, a critical aspect is the size of the web. The web is said to be composed of over 8 billion pages, and its size is still growing. Currently, the computation is performed centrally at Google, where the data on the whole web structure is collected by crawlers automatically browsing the web. In practice, the class of algorithms that can be applied is limited. In fact, the basic power method is employed, but it is reported that this computation takes about a week [@LanMey:06]. This clearly necessitates more efficient computational methods.
+
+In this regard, several approaches have recently been proposed. In [@KamHavGol:04], an adaptive computation method is developed, which classifies web pages into groups based on the speed of convergence to the PageRank values and allocates computational resources accordingly. Another line of research is based on distributed approaches,
+
+GENERATED TEXT:
+ which is based on the notion of the "global
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ where the computation is performed on multiple servers communicating to each other. For example, Monte Carlo methods are used in [@AvrLitNem:07], while the work in [@ZhuYeLi:05] utilizes the block structure of the web to apply techniques from the Markov chain literature. In [@deJBra:07; @KolGalSzy:06], methods based on the so-called asynchronous iterations [@BerTsi:89] in numerical analysis are discussed.
+
+In this paper, we follow the distributed approach and, in particular, develop a randomized algorithm for the PageRank computation; for recent advances on probabilistic approaches in systems and control, see [@TemCalDab_book]. This algorithm is fully distributed and has three main features as follows: First, in principle, each page can compute its own PageRank value locally by communicating with the pages that are connected by direct links. That is, each page exchanges its value with the pages that it is linked to and those linked to it. Second, the pages make the decision to initiate this communication at random times which are independent from page to page. This means that, in its implementation, there is neither a fixed order among the pages nor a
+
+GENERATED TEXT:
+ fixed number of possible connections on the pages. Third
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ centralized agent in the web that determines the pages to update their values. Third, the computation required for each page is very mild.
+
+The main result of the paper shows that the algorithm converges to the true PageRank values in the mean-square sense. This is achieved by computing the time average at each page. From a technical viewpoint, an important characteristic of the approach is that the stochasticity of the matrix in the original problem is preserved and exploited. We first propose a basic distributed update scheme for the pages and then extend this into two directions to enhance its performance and flexibility for implementation. It is further noted that in [@IshTem_acc:09; @IshTemBaiDab:09], this approach has been generalized to incorporate failures in the communication as well as aggregation of the web structure. In [@IshTem_sice:09], a related result on finding the variations in the PageRank values when the web data may contain errors is given.
+
+We emphasize that the approach proposed here is particularly motivated by the recent research on distributed consensus, agreement, and flocking problems in the systems and control community; see, e.g., [@JadLinMor:03; @BerTsi:
+
+GENERATED TEXT:
+04]. In spite of these constraints, one can
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+07; @Wu:06; @HatMes:05; @BoyGhoPra:06; @QuWanHul:08; @TahJad:08; @TemIsh:07; @CarFagFoc:05; @KasBasSri:07; @YuHenFid:07; @MarBroFra:04; @RenBea:05; @Moreau:05; @LinFraMag:05]. For additional details, we refer to [@AntBai:07; @csm:07; @BerTsi:89]. Among such problems, our approach to PageRank computation is especially related to the consensus, where multiple agents exchange their values with neighboring agents so that they obtain consensus, i.e., all agents reach the same value. The objective is clearly different from that of the PageRank problem, which is to find a specific eigenvector of a stochastic matrix via the power method. However, the recursion appearing in the consensus algorithm is exactly in the same form as the one for our distributed PageRank computation except that the class of stochastic matrices is slightly different. These issues will be discussed further.
+
+The organization of this
+
+GENERATED TEXT:
+ paper was created by the authors of [@Ko
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ paper is as follows: In Section \[sec:pagerank\], we present an overview of the PageRank problem. The distributed approach is introduced in Section \[sec:dist1\], where we propose a basic scheme and prove its convergence. Its relation with multi-agent consensus problems is discussed in Section \[sec:consensus\]. We then develop two extensions of the basic distributed algorithm: One in Section \[sec:simul\] is to improve the rate of convergence by allowing multiple pages to simultaneously update and the other in Section \[sec:approx\] to reduce the communication load among the pages. The proposed algorithm is compared with an approach known as asynchronous iteration from the field of numerical analysis in Section \[sec:asynch\]. Numerical examples are given in Section \[sec:example\] to show the effectiveness of the proposed schemes. We conclude the paper in Section \[sec:concl\]. Part of the material of this paper has appeared in a preliminary form in [@IshTem_cdc:08]. [*Notation*]{}:  For vectors and matrices, inequalities are used to denote entry-wise inequalities: For
+
+GENERATED TEXT:
+ example:
+[struct.inverse.x
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ $X,Y\in\R^{n\times m}$, $X\leq Y$ implies $x_{ij}\leq y_{ij}$ for $i=1,\ldots,n$ and $j=1,\ldots,m$; in particular, we say that the matrix $X$ is nonnegative if $X\geq 0$ and positive if $X> 0$. A probability vector is a nonnegative vector $v\in\R^n$ such that $\sum_{i=1}^n v_i = 1$. Unless otherwise specified, by a stochastic matrix, we refer to a column-stochastic matrix, i.e., a nonnegative matrix $X\in\R^{n\times n}$ with the property that $\sum_{i=1}^n x_{ij}=1$ for $j=1,\ldots,n$. Let $\one\in\R^n$ be the vector with all entries equal to $1$ as $\one:=[1\;\cdots\;1]^T$. Similarly, $S\in\R^{n\times n}$ is the matrix
+
+GENERATED TEXT:
+ with all entries equal to $1$ as $\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ with all entries being $1$. For $x\in\R^n$, we denote by $\abs{x}$ the vector containing the absolute values of the corresponding entries of $x$. The norm $\norm{\cdot}$ for vectors is the Euclidean norm. The spectral radius of the matrix $X\in\R^{n\times n}$ is denoted by $\rho(X)$. We use $I$ for the identity matrix.
+
+The PageRank problem {#sec:pagerank}
+====================
+
+In this section, we provide a brief introductory description of the PageRank problem; this material can be found in, e.g., [@LanMey:06; @BryLei:06; @BriPag:98].
+
+Consider a network of $n$ web pages indexed by integers from 1 to $n$. This network is represented by the directed graph $\Gcal=(\Vcal,\Ecal)$. Here, $\Vcal:=\{1,2,\ldots,n\}$ is the set of vertices corresponding to the web page indices while $\Ecal\subset\Vcal\times\
+
+GENERATED TEXT:
+Vcal:=\{1,2,
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+Vcal$ is the set of edges representing the links among the pages. The vertex $i$ is connected to the vertex $j$ by an edge, i.e., $(i,j)\in\Ecal$, if page $i$ has an outgoing link to page $j$, or in other words, page $j$ has an incoming link from page $i$. To avoid trivial situations, we assume $n\geq 2$.
+
+The objective of the PageRank algorithm is to provide some measure of importance to each web page. The PageRank value, or simply the value, of page $i\in\Vcal$ is a real number in $[0,1]$; we denote this by $x_i^*$. The values are ordered such that $x_i^*>x_j^*$ implies that page $i$ is more important than page $j$.
+
+The basic idea in ranking the pages in terms of the values is that a page having links from important pages is also important. This is realized by determining the value of one page as a sum of the contributions from all pages that have links to it. In particular, the value $x_i^*$ of page
+
+GENERATED TEXT:
+ $j$ is the sum of the contributions to
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ $i$ is defined as $$x_i^* = \sum_{j\in \Lcal_i} \frac{x_j^*}{n_j},$$ where $\Lcal_i:=\{j:\; (j,i)\in\Ecal\}$, i.e., this is the index set of pages linked to page $i$, and $n_j$ is the number of outgoing links of page $j$. It is customary to normalize the total of all values so that $\sum_{i=1}^{n} x^*_i = 1$.
+
+Let the values be in the vector form as $x^*\in[0,1]^n$. Then, from what we described so far, the PageRank problem can be restated as $$x^* = A x^*,~~x^*\in[0,1]^n,~~\sum_{i=1}^n x^*_i = 1,
+\label{eqn:xA:pr}$$ where the matrix $A=(a_{ij})\in\R^{n\times n}$, called the link matrix, is given by $$
+
+GENERATED TEXT:
+(x_i - 1) = \frac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+a_{ij} 
+  := \begin{cases}
+      \frac{1}{n_j} & \text{if $j\in \Lcal_i$},\\
+      0             & \text{otherwise}.
+    \end{cases}
+ \label{eqn:A}$$ Note that the value vector $x^*$ is a nonnegative unit eigenvector corresponding to the eigenvalue 1 of the nonnegative matrix $A$. In general, for this eigenvector to exist and to be unique, it is sufficient that the web as a graph is strongly connected [@HorJoh:85][^2]. However, the web is known not to be strongly connected. Thus, the problem is slightly modified as follows[^3].
+
+First, note that in the real web, the so-called dangling nodes, which are pages having no links to others, are abundant. Such pages can be found, e.g., in the form of PDF document files having no outgoing links. These pages introduce zero columns into the link matrix. To simplify the discussion, we redefine
+
+GENERATED TEXT:
+ the web link matrix as follows:
+
+\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ the graph and thus the matrix $A$ by bringing in artificial links for all dangling nodes (e.g., links back to the pages having links to a dangling node). As a result, the link matrix $A$ becomes a stochastic matrix, that is, $\sum_{i=1}^n a_{ij}=1$ for each $j$. This implies that there exists at least one eigenvalue equal to 1.
+
+To emphasize the changes in the links that we have just made, we state the following as an assumption.
+
+The link matrix $A$ given in is a stochastic matrix.
+
+Next, to guarantee the uniqueness of the eigenvalue 1, a modified version of the values has been introduced in [@BriPag:98] as follows: Let $m$ be a parameter such that $m\in(0,1)$, and let the modified link matrix $M\in\R^{n\times n}$ be defined by $$M := (1-m)A + \frac{m}{n}S.
+  \label{eqn:M}$$ In the original algorithm in [@BriPag:98], a typical value
+
+GENERATED TEXT:
+ is $m0$, where $M$ is
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ for $m$ is chosen as $m=0.15$; we use this value throughout this paper[^4]. Notice that $M$ is a positive stochastic matrix. By the Perron theorem [@HorJoh:85], this matrix is primitive[^5]; in particular, the eigenvalue 1 is of multiplicity 1 and is the unique eigenvalue of maximum modulus (i.e., with the maximum absolute value). Furthermore, the corresponding eigenvector is positive. Hence, we redefine the value vector $x^*$ by using $M$ in place of $A$ in as follows.
+
+The PageRank value vector $x^*$ is given by $$x^* = M x^*,~~x^*\in[0,1]^n,~~\sum_{i=1}^n x^*_i = 1.
+ \label{eqn:prvec}$$
+
+As mentioned in the Introduction, due to the large dimension of the link matrix $M$, the computation of the eigenvector corresponding to the eigenvalue 1 is difficult. The solution that has been employed in practice is based on the power method. That is,
+
+GENERATED TEXT:
+ to find the right eigenvalue for the matrix
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ the value vector $x^*$ is computed through the recursion $$\begin{aligned}
+  x(k+1) 
+    &= M x(k) 
+     = (1-m)A x(k) + \frac{m}{n}\one,
+\label{eqn:xM0} \end{aligned}$$ where $x(k)\in\R^n$ and the initial vector $x(0)\in\R^n$ is a probability vector. The second equality above follows from the fact $Sx(k)=\one$, $k\in\Z_+$. For implementation, the form on the far right-hand side is important, exhibiting that multiplication is required using only the sparse matrix $A$, and not the dense matrix $M$.
+
+Based on this method, we can asymptotically find the value vector as shown below; see, e.g., [@HorJoh:85].
+
+In the update scheme , for any initial state $x(0)$ that is a probability vector, it holds that $x(k)\rightarrow x^*$ as $k\right
+
+GENERATED TEXT:
+arrow x^*=\theta(k
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+arrow\infty$.
+
+We now comment on the convergence rate of this scheme. Denote by $\lambda_1(M)$ and $\lambda_2(M)$ the largest and the second largest eigenvalues of $M$ in magnitude. Then, for the power method applied to $M$, the asymptotic rate of convergence is exponential and depends on the ratio $\abs{\lambda_2(M)/\lambda_1(M)}$. Since $M$ is a positive stochastic matrix, we have $\lambda_1(M)=1$ and $\abs{\lambda_2(M)}<1$. Furthermore, it is shown in [@LanMey:06] that the structure of the link matrix $M$ leads us to the bound $$\abs{\lambda_2(M)} \leq 1-m.
+  \label{eqn:lambda2}$$
+
+We next provide a simple example for illustration.
+
+\
+
+\[ex:1\]Consider the web with four pages shown in Fig. \[fig:4nodes\]. As a graph, this web is strongly connected, and there are no dangling nodes. The link matrix $
+
+GENERATED TEXT:
+M$ is a positive boundary. Since the web
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+A$ and the modified link matrix $M$ can easily be constructed by and , respectively, as $$\begin{aligned}
+  A &= \begin{bmatrix}
+        0 & 0 & 0 & \frac{1}{3}\\
+        1 & 0 & \frac{1}{2} & \frac{1}{3}\\
+        0 & \frac{1}{2} & 0 & \frac{1}{3}\\
+        0 & \frac{1}{2} & \frac{1}{2} & 0
+      \end{bmatrix},~~
+  M = \begin{bmatrix}
+        0.0375 & 0.0375 & 0.0375 & 0.3208\\
+        0.8875 & 0.0375 & 0.4625 & 0.3208\\
+        0.0375 & 0.4625 & 0.0375 & 0.3208\\
+   
+
+GENERATED TEXT:
+    0.04375 & 0.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+     0.0375 & 0.4625 & 0.4625 & 0.0375
+      \end{bmatrix},\end{aligned}$$ where we used the value $m=0.15$ from [@BriPag:98]. Then, the value vector $x^*$ can be computed as $x^* = \bigl[
+          0.119 ~ 0.331 ~ 0.260 ~ 0.289
+        \bigr]^T$. Notice that page 2 has the largest value since it is linked from three pages while page 1, which has only one link to it, has the smallest value. On the other hand, pages 3 and 4 have the same number of incoming links, but page 4 has a larger value. This is because page 4 has more outgoing links, and thus it receives more contribution from page 3 than what it gives back.
+
+A distributed randomized approach {#sec:dist1}
+=================================
+
+In this section, we propose a distributed approach to compute the value vector $x^*$.
+
+Consider the web from the previous section.
+
+GENERATED TEXT:
+ We will assume that for each page that receives a
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ The basic protocol of the scheme is as follows: At time $k$, page $i$ initiates its PageRank value update (i) by sending the value of page $i$ to the pages that are linked and (ii) by requesting the values from the pages that are linked to page $i$. All pages involved in this process renew their values based on the latest available information.
+
+To implement the scheme in a distributed manner, we assume that the pages taking the update action are determined in a random manner. This is specified by the random process $\theta(k)\in\Vcal$, $k\in\Z_+$. If at time $k$, $\theta(k)=i$, then page $i$ initiates an update action by communicating and exchanging the values with the pages connected by incoming and outgoing links. Specifically, $\theta(k)$ is assumed to be i.i.d., and its probability distribution is given by $$\Prob\{\theta(k)=i\} = \frac{1}{n},~~\forall k\in\Z_+.
+\label{eqn:theta}$$ This means that each page takes the update action with equal probability.
+
+GENERATED TEXT:
+ If the page ever receives a new value $i
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ In principle, this scheme may be implemented without requiring a centralized decision maker or any fixed order among the pages. In particular, consider the distributed update scheme in the following form: $$x(k+1) 
+    = (1-\hat{m}) A_{\theta(k)} x(k) 
+        + \frac{\hat{m}}{n}\one,
+  \label{eqn:xMi1}$$ where $x(k)\in\R^n$ is the state whose initial state $x(0)$ is a probability vector, $\theta(k)\in\{1,\ldots,n\}$ is the mode of the system, and $A_i$, $i=1,\ldots,n$, are called the distributed link matrices and are to be determined; $\hat{m}\in(0,1)$ is a parameter replacing $m$ in the centralized scheme .
+
+The objective here is to design this distributed update scheme by finding the appropriate link matrices $A_i$ and the parameter $\hat{m}$ so that the PageRank values are computed through the time
+
+GENERATED TEXT:
+ series of the first two links in the update (
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ average of the state $x$. Let $y(k)$ be the average of the sample path $x(0),\ldots,x(k)$ as $$y(k) := \frac{1}{k+1}\sum_{\ell=0}^{k} x(\ell).
+\label{eqn:yk}$$ We say that, for the distributed update scheme, the PageRank value $x^*$ is obtained through the time average $y$ if, for each initial state $x(0)$ that is a probability vector, $y(k)$ converges to $x^*$ in the mean-square sense as follows: $$E\left[
+   \bigl\|
+      y(k) - x^*
+   \bigr\|^2
+  \right] \rightarrow 0,~~~k\rightarrow\infty.
+ \label{eqn:thm:erg}$$ This type of convergence is called ergodicity for stochastic processes [@PapPil:02]. In what follows, we develop the distributed update scheme of . The main result is presented as The
+
+GENERATED TEXT:
+orem : The above definition of the field of gradient
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+orem \[thm:erg\] showing the convergence of the scheme. The design consists of two steps, one for the link matrices $A_i$ and then the parameter $\hat{m}$. In later sections, this approach will be extended to improve the convergence rate and the necessary communication load.
+
+Distributed link matrices and their average
+-------------------------------------------
+
+The first step in the development is to introduce the distributed link matrices. For each $i$, the matrix $A_i\in\R^{n\times n}$ is obtained as follows: (i) The $i$th row and column coincide with those of $A$; (ii) the remaining diagonal entries are equal to $1-a_{i\ell}$, $\ell=1,\ldots,n$, $\ell\neq i$; and (iii) all the remaining entries are zero. More formally, we have $$\begin{aligned}
+ (A_i)_{j\ell}
+  &:= \begin{cases}
+         a_{j\ell}   & \text{if $j=i$ or $\ell=i$
+
+GENERATED TEXT:
+ and $a_i=i$ and $
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+},\\
+         1-a_{i\ell} & \text{if $j=\ell\neq i$},\\
+         0         & \text{otherwise},
+     \end{cases}  ~~~~~i=1,\ldots,n.
+ \label{eqn:Ai}\end{aligned}$$ It follows that these matrices are stochastic because the original link matrix $A$ possesses this property. As we shall see later, this property indeed is critical for the convergence of the scheme.
+
+\[ex:3\]We continue with the 4-page web in Example \[ex:1\]. The link matrices $A_i$ are given by $$\begin{aligned}
+ A_1 
+  &= \begin{bmatrix}
+       0           & 0 & 0 & \frac{1}{3}\\
+       1           & 1 & 0 & 0
+
+GENERATED TEXT:
+ & \frac{1}{3} & \
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+\\
+       0           & 0 & 1 & 0\\
+       0           & 0 & 0 & \frac{2}{3}
+     \end{bmatrix},~~
+ A_2 
+   = \begin{bmatrix}
+       0           & 0           &           0 & 0\\
+       1           & 0           & \frac{1}{2} & \frac{1}{3}\\
+       0           & \frac{1}{2} & \frac{1}{2} & 0\\
+       0           & \frac{1}{2} &           0 & \frac{
+
+GENERATED TEXT:
+1}{2} & 0 \frac{1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+2}{3}
+     \end{bmatrix},~~
+ A_3
+  = \begin{bmatrix}
+       1           & 0 & 0 & 0\\
+       0           & \frac{1}{2} & \frac{1}{2} & 0\\
+       0           & \frac{1}{2} & 0           & \frac{1}{3}\\
+       0           &           0 & \frac{1}{2} & \frac{2}{3}
+     \end{bmatrix},~~
+ A_4
+   = \begin{bmatrix}
+       1           & 0           & 0 & \frac{1}{3}\\
+
+
+GENERATED TEXT:
+       0   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+       0           & \frac{1}{2} & 0 & \frac{1}{3}\\
+       0           & 0           & \frac{1}{2} & \frac{1}{3}\\
+       0           & \frac{1}{2} & \frac{1}{2} & 0
+     \end{bmatrix}.
+\tag*{\text{\End}}
+$$
+
+To clarify the properties of the link matrices $A_i$ just introduced, we consider the simpler update scheme $$x(k+1) = A_{\theta(k)} x(k),
+\label{eqn:xAi}$$ where $x(k)$ is the state with $x(0)$ being a probability vector, and the mode $\theta(k)$ is specified in . In particular, we focus on its average dynamics. The mean $\overline{x}(k):
+
+GENERATED TEXT:
+ \begin{align*} \tag{eq
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+=E[x(k)]$ of the state $x(k)$ follows the recursion $\overline{x}(k+1)=\overline{A} \overline{x}(k)$, where $\overline{A}:= E[A_{\theta(k)}]$ is the average matrix and $\E[\,\cdot\,]$ is the expectation with respect to the random process $\theta(k)$. Hence, we now inspect this matrix $\overline{A}$. Due to the probability distribution of $\theta(k)$ in , we have $$\overline{A}
+   = \frac{1}{n} \sum_{i=1}^n A_i. 
+\label{eqn:Abar0}$$ It is obvious that $\overline{A}$ is a stochastic matrix since all $A_i$ are stochastic.
+
+The following lemma shows some properties of this matrix $\overline{A}$ that will be useful later.
+
+\[lem:Abar\]For the average matrix $\overline{A}$ given in , we have
+
+GENERATED TEXT:
+ $$\overline{A}
+
+\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ the following:
+
+1.  $\overline{A} = \frac{2}{n} A + \frac{n-2}{n} I$.
+
+2.  There exists a vector $z_0\in\R_+^n$ which is an eigenvector corresponding to the eigenvalue 1 for both matrices $A$ and $\overline{A}$.
+
+[[*Proof:*]{}]{}(i)  By definition of $\overline{A}$, we have $$\begin{aligned}
+ (\overline{A})_{j\ell} 
+  &= \frac{1}{n}
+        \sum_{i=1}^{n} (A_i)_{j\ell}
+  = \begin{cases}
+       \frac{1}{n}
+         \bigl[
+          a_{jj} 
+          + \sum_{i=1,\ i\neq j}^n
+    
+
+GENERATED TEXT:
+    \frac{1}{n}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+                (1- a_{ij})
+         \bigr] \\
+         \hspace*{1.5cm} \text{if $j=\ell$},\\
+       \frac{2}{n} a_{j\ell}~~~~\text{if $j\neq \ell$}.\\
+     \end{cases}\end{aligned}$$ By definition of $A$, we have $a_{jj}=0$ and $\sum_{i=1,\ i\neq j}^n a_{ij} = 1$. Thus, the expression for $\overline{A}$ follows.
+
+(ii)  From (i), we have $\overline{A}-I = 2/n(A-I)$. This implies that every eigenvector $z_0$ of the link matrix $A$ associated with the eigenvalue 1 is also an eigenvector of the average matrix $\overline{A}$ for the same eigenvalue.
+
+The le
+
+GENERATED TEXT:
+mma is quite simple. First, if $z
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+mma above provides some justification for the proposed distributed approach. That is, even though the matrices $A$ and $\overline{A}$ have different structures, they share an eigenvector for the eigenvalue 1, which corresponds to the PageRank vector.
+
+Mean-square convergence of the distributed update scheme
+--------------------------------------------------------
+
+As in the case with the original link matrix $A$, for the average matrix $\overline{A}$, the eigenvector corresponding to the eigenvalue 1 may not be unique. We follow an argument similar to that in Section \[sec:pagerank\] and introduce the modified versions of the distributed link matrices.
+
+Since the link matrices $A_i$ are stochastic, we can rewrite the distributed update scheme in as $$x(k+1) = M_{\theta(k)} x(k),
+  \label{eqn:xM}$$ where the modified distributed link matrices are given by $$M_i 
+   := (1-\hat{m}) A_i + \frac{\hat{m}}{n} S,~~~i=1,\ldots,n.
+ 
+
+GENERATED TEXT:
+~~~~~~~~~~~~~~~\]
+\[\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ \label{eqn:Mi}$$ This expression is derived by the relation $Sx(k)=\one$ because $x(k)$ in is a probability vector for each $k$. Note that $M_i$ are positive stochastic matrices.
+
+Similarly to the argument on the link matrices $A_i$ above, the problem at this second step is as follows: We shall find the modified link matrices $M_i$ by choosing the parameter $\hat{m}$ such that their average and the link matrix $M$ from share an eigenvector for the eigenvalue 1. Since such an eigenvector is unique for $M$, it is necessarily equal to the value vector $x^*$ (see ).
+
+Let $\overline{x}(k):=\E[x(k)]$ be the mean of the state $x(k)$ of the system . Its dynamics is expressed as $$\overline{x}(k+1) = \overline{M} \overline{x}(k),
+\label{eqn:xMbar}$$ where $\overline{x}(0)=x(0)
+
+GENERATED TEXT:
+$ is the point of the link matrix $x
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+$ and the average matrix $\overline{M}$ is given by $\overline{M} := \E[M_{\theta(k)}]$. A simple way of defining $M_i$ would be to let $\hat{m}=m$ as in the case with $M$; however, it can be shown that there is no clear relation between the original matrix $M$ and the average matrix $\overline{M}$ such as that between $A$ and $\overline{A}$ as we have seen in Lemma \[lem:Abar\]. Instead, we take the parameter $\hat{m}$ as $$\hat{m} = \frac{2m}{n - m(n-2)}.
+ \label{eqn:mhat}$$ For the value $m=0.15$ used in this paper, we have $\hat{m} = 0.3/(0.85n+0.3)$. For this choice of $\hat{m}$, the next result holds.
+
+\[lem:Mbar\]For the parameter $\hat{m}$ given in , we have the following:
+
+1.
+
+GENERATED TEXT:
+ For the important case $m = 0.15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+  $\hat{m}\in(0,1)$ and $\hat{m}<m$.
+
+2.  $\overline{M} = \frac{\hat{m}}{m} M + \left(1 - \frac{\hat{m}}{m}\right)I$.
+
+3.  For the average matrix $\overline{M}$, the eigenvalue 1 is simple and is the unique eigenvalue of maximum modulus. The value vector $x^*$ is the corresponding eigenvector.
+
+[[*Proof:*]{}]{}(i)  By the assumptions $m\in(0,1)$ and $n\geq 2$, $\hat{m}$ in is positive. Also, we have $1-\hat{m} = n(1-m)/[n - m(n-2)]$. Hence, $1-\hat{m}> 1-m$, that is, $\hat{m}< m< 1$.
+
+(ii)  This can be shown by direct calculation as follows: $$\begin{aligned}
+ \overline{M}
+   &=
+
+GENERATED TEXT:
+ \frac{\frac{1}{2} \
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ (1-\hat{m}) \overline{A} + \frac{\hat{m}}{n} S~~~
+             \text{(by the definition of $\overline{M}$, 
+                        \eqref{eqn:Mi}, 
+                          and then \eqref{eqn:Abar0})}\\
+   &= (1-\hat{m}) 
+       \biggl[
+          \frac{2}{n} A + \frac{n-2}{n} I 
+       \biggr]
+        + \frac{\hat{m}}{n} S~~~           \text{(by Lemma~\ref{lem:Abar}\;(i))}\\
+   &
+
+GENERATED TEXT:
+= (1-\hat{m}) 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+= \frac{\hat{m}}{m} M 
+        + \biggl(
+             1 - \frac{\hat{m}}{m}
+          \biggr)I~~~
+           \text{(by $\hat{m}$ in \eqref{eqn:mhat} and the 
+                 definition of $M$ in \eqref{eqn:M})}.\end{aligned}$$
+
+(iii)  From (ii), we have $\overline{M}-I = \hat{m}/m (M-I)$. Hence, $\overline{M}$ and $M$ share an eigenvector for the eigenvalue 1. However, both $\overline{M}$ and $M$ are positive stochastic matrices. Therefore, by the Perron theorem [@HorJoh:85], for these matrices, the eigenvalue 1 is of multiplicity 1 and
+
+GENERATED TEXT:
+ the eigenvalue 0 is of multiplicity 0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ is the unique one having the maximum magnitude. Moreover, by , the corresponding eigenvector coincides with $x^*$.
+
+From (iii) in the lemma above, it follows that the value vector $x^*$ can be obtained by the power method, i.e., by the average system in as $\overline{x}(k) \rightarrow x^*$, $k\rightarrow\infty$. Hence, in an average sense, the distributed update scheme asymptotically provides the correct values. It is interesting to observe that this can be achieved though the original link matrix $A$ does not explicitly appear in the scheme. In fact, an eigenvector of the matrix $M$ is computed through randomly switching among the distributed link matrices $M_i$.
+
+However, this property turns out not to be sufficient to guarantee convergence of $x(k)$ to the true value $x^*$. From Lemma \[lem:tauM\](ii) in the Appendix, we can show that for any sequence $\{\theta(k)\}$, there exists a sequence of probability vectors $\{v(k)\}$ such that, for any $x(
+
+GENERATED TEXT:
+K_i)$ of any vector $x
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+0)$, it holds that $x(k)-v(k) \one^T x(0)=x(k)-v(k)\rightarrow 0$ as $k\rightarrow\infty$. The vector $v$ and hence the state $x$ in general do not converge. This can be seen in Example \[ex:3\] when, e.g., page 1 initiates an update ($\theta(k)=1$); the update for page 4 is given by $x_4(k+1) = 2(1-m)/3 x_4(k) + m/4$, showing that $x_4$ cannot stay at its equilibrium value. Therefore, in the distributed approach, we resort to computing the time average $y(k)$ of the states.
+
+The following theorem is the main result of this section. It shows that the time average indeed converges to the value vector in the mean-square sense.
+
+\[thm:erg\]In the distributed update scheme in , the PageRank value $x^*$ is obtained through the time average $y$ in as $E\bigl[
+   \big
+
+GENERATED TEXT:
+l(k+1)\leftarrow t(
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+l\|
+      y(k) - x^*
+   \bigr\|^2
+  \bigr] \rightarrow 0$, $k\rightarrow\infty$.
+
+The theorem highlights an ergodic property in the proposed update scheme. It can be shown by general Markov process results in, e.g., [@Cogburn:86]. For completeness, however, a proof more specific to the current setup is provided in Appendix \[sec:app:B\]; it employs tools for stochastic matrices and moreover is useful for an extension given in Section \[sec:approx\]. Regarding the convergence of this algorithm, we see from in the proof that it is of order $1/k$ and moreover depends on the size of $n$ linearly through the parameter $\hat{m}$ in .
+
+Several remarks are in order. In practice, each page needs to communicate with the pages that are directly connected by incoming or outgoing links. We emphasize that the recursion to be used is and not the equivalent expression of ; in the latter case, the link matrices $M_i$ are positive, which can imply that
+
+GENERATED TEXT:
+ the link matrices $M_j$ are
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ the values of all pages are required for an update of a page. Nevertheless, as can be seen in , the link matrices $A_i$ are sparse. Thus, at time $k$, communication is required only among the pages corresponding to the nonzero entries in $A_{\theta(k)}$. Each page then performs weighted addition of its own value, the values just received, and the extra term $\hat{m}/n$. Consequently, the amount of computation required at each page is limited at any time.
+
+Implementation issues such as how web pages can exactly make local computations are outside the scope of this paper. However, it is clear that certain regulations may be necessary so that page owners cooperate with the search engine and the PageRank values computed by them can be trusted[^6]. Another issue concerning reliability of the ranking is that of link spam, i.e., links added to enhance the PageRank of certain pages on purpose; a method to detect such spamming is studied in, e.g., [@AndBorHop:07; @LanMey:06].
+
+Relations to consensus problems {#sec:consensus}
+===============================
+
+In this section, we discuss the
+
+GENERATED TEXT:
+ relationship between a consensus problem and the impression that a
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ relation between the two problems of PageRank and consensus. First, we describe a stochastic version of the consensus problem. Such problems have been studied in, e.g., [@BoyGhoPra:06; @Wu:06; @HatMes:05; @TahJad:08]; see also [@TemIsh:07]. Consider a set $\Vcal=\{1,2,\ldots,n\}$ of agents having scalar values. The network of agents is represented by the directed graph $\Gcal=(\Vcal,\Ecal)$. The vertex $i$ is connected to the vertex $j$ by an edge $(i,j)\in\Ecal$ if agent $i$ can communicate its value to agent $j$. Assume that the graph is strongly connected[^7].
+
+The objective is that all agents reach a common value by communicating to each other, where the pattern in the communication is randomly determined at each time. Let $x_i(k)$ be the value of agent $i$ held at time $k$, and let $x(k):=[x_1(k)\cdots x_n(k)]
+
+GENERATED TEXT:
+$. The goal is to show that the network of
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+^T\in\R^n$. The values are updated via the recursion $$x(k+1) = A_{\theta(k)} x(k),
+\label{eqn:consensus:x}$$ where $\theta(k)\in\{1,\ldots,d\}$ is the mode specifying the communication pattern among the agents and $d$ is the number of such patterns. The communication patterns are given as follows: Each $i\in\{1,\ldots,d\}$ corresponds to the subset $\Ecal_i\subset\Ecal$ of the edge set. Then, the matrix $A_i$ has $(A_i)_{j\ell}>0$ if and only if $(\ell,j)\in\Ecal_i$. We assume that (i) $(j,j)\in\Ecal_i$ for all $j$, (ii) $\bigcup_{i=1}^d\Ecal_i=\Ecal$, and (iii) the matrix $A_{i}$ is a row-stochastic matrix. The communication pattern is random, and
+
+GENERATED TEXT:
+ the correspondence is the same across all of the agents
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ in particular, $\theta(k)$ is an i.i.d. random process. Its probability distribution is given by $\Prob\{\theta(k)=i\} = 1/d$ for $k\in\Z_+$.
+
+We say that consensus is obtained if for any initial vector $x(0)\in\R^n$, it holds that $$\abs{x_i(k)-x_j(k)}\rightarrow 0,~~k\rightarrow\infty
+\label{eqn:consensus}$$ with probability one for all $i,j\in\Vcal$. A well-known approach is to update the value of each agent by taking the average of the values received at that time. In this case, the matrix $A_i$ is constructed as $$(A_{i})_{j\ell}
+  := \begin{cases}
+      \frac{1}{n_{ij}} & \text{if $(\ell,j)\in\Ecal_{i}$},\\
+      0                 
+
+GENERATED TEXT:
+          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+    & \text{otherwise},
+    \end{cases}$$ where $n_{ij}$ is the number of agents $\ell$ with $(\ell,j)\in\Ecal_{i}$, i.e., those that transmit their values to agent $j$.
+
+\[ex:consensus\]Consider the graph in Example \[ex:1\] with four agents. We introduce four communication patterns arising from the protocol in the distributed PageRank algorithm: The edge subset $\Ecal_i$ contains all $(i,j)$ and $(j,i)$ in the original edge set $\Ecal$ including $(i,i)$ that corresponds to a self-loop for $i,j=1,2,3,4$. The matrices $A_i$ can be written as $$\begin{aligned}
+ A_1 
+  &= \begin{bmatrix}
+       \frac{1}{2} & 0 & 0 & \frac{1}{2}\\
+       \frac{1}{2} & \frac{1}{2} & 0 & 0\\
+
+GENERATED TEXT:
+\
+
+A_s\end{aligned
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+
+       0           & 0 & 1 & 0\\
+       0           & 0 & 0 & 1
+     \end{bmatrix},~~
+ A_2 
+   = \begin{bmatrix}
+       1           & 0           &           0 & 0\\
+       \frac{1}{4} & \frac{1}{4} & \frac{1}{4} & \frac{1}{4}\\
+       0           & \frac{1}{2} & \frac{1}{2} & 0\\
+       0           & \frac{1}{2} &           0 & \frac{1}{2}
+     \end{bmatrix
+
+GENERATED TEXT:
+},~~
+
+A_3 
+=
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+},~~ A_3
+  = \begin{bmatrix}
+       1           & 0 & 0 & 0\\
+       0           & \frac{1}{2} & \frac{1}{2} & 0\\
+       0           & \frac{1}{3} & \frac{1}{3} & \frac{1}{3}\\
+       0           &           0 & \frac{1}{2} & \frac{1}{2}
+     \end{bmatrix},~~
+ A_4
+   = \begin{bmatrix}
+       \frac{1}{2} & 0           & 0 & \frac{1}{2}\\
+       0           & \frac{1}{2
+
+GENERATED TEXT:
+} & \frac{1}{2} &
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+} & 0 & \frac{1}{2}\\
+       0           & 0           & \frac{1}{2} & \frac{1}{2}\\
+       0           & \frac{1}{3} & \frac{1}{3} & \frac{1}{3}
+     \end{bmatrix}.
+\tag*{\text{\End}}\end{aligned}$$
+
+We now present the convergence result for consensus.
+
+Assume that the graph is strongly connected. Then under the scheme of , where the communication pattern is chosen randomly, consensus is obtained in the sense of .
+
+[*Outline of the proof:*]{}  Let $\overline{A}:=E[A_{\theta(k)}]$ be the average matrix. This matrix is stochastic and irreducible. This is because the original graph is strongly connected, and hence under the probability distribution of $\theta(k)$, we have $(\overline{
+
+GENERATED TEXT:
+A}\)$ for all the essential matrix.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+A})_{j\ell}>0$ for each $(\ell,j)\in\Ecal$. Furthermore, by definition, the diagonal entries are positive, and thus $\overline{A}$ is a primitive matrix, implying that it has the unique eigenvalue 1 of maximum modulus [@HorJoh:85]. Thus, by [@TahJad:08], it follows that consensus is obtained.
+
+In comparison with the distributed PageRank problem, the consensus problem has the features below:
+
+1.  The graph is assumed to be strongly connected.
+
+2.  The goal is that all values $x_i(k)$ become equal, and moreover there is no restriction on its size.
+
+3.  Convergence with probability one can be attained for the values $x_i(k)$ directly; there is no need to consider their time average (as in $y_i(k)$ in ).
+
+4.  The matrices $A_i$ are row stochastic and the diagonal entries are all positive. In contrast, in our distributed PageRank computation scheme, the link matrices are column stochastic. However, the coefficient of ergod
+
+GENERATED TEXT:
+ie is uniform in the case of an ergod
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+icity, which is the tool employed for proving Theorem \[thm:erg\], is useful also for this problem; see, e.g., [@TahJad:08].
+
+It is clear that many similarities exist between the algorithms for consensus and PageRank. We emphasize that the distributed PageRank approach in this paper has been particularly motivated by the recent advances in the consensus literature. We highlight two points that provide helpful insights into the PageRank problem as follows:
+
+1.  At the conceptual level, it is natural to view the web as a network of agents that can make its own computation as well as communication with their neighboring agents.
+
+2.  At the technical level, it is important to impose stochasticity on the distributed link matrices. For the distributed PageRank computation, very few works exploit this viewpoint.
+
+Extensions to simultaneous updates {#sec:simul}
+==================================
+
+So far, we have discussed the update scheme where only one page initiates an update at each time instant. In the web with billions of pages, however, this approach may not be practical. In this section, we extend the distributed algorithm by allowing multiple pages to simultaneously initiate updates.
+
+Consider
+
+GENERATED TEXT:
+ a simple PageRank algorithm using the following code:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ the web with $n$ pages from Sections \[sec:pagerank\] and \[sec:dist1\]. As before, at each time $k$, the page $i$ initiates its PageRank value update (i) by sending its value to the pages that it is linked to and (ii) by requesting the pages that link to it for their values. All pages involved here update their values based on the new information. The difference from the simpler scheme before is that there may be pages that are requested for their values by multiple pages at the same time. The current scheme handles such situations.
+
+These updates can take place in a fully distributed and randomized manner. The decision to make an update is a random variable. In particular, this is determined under a given probability $\alpha\in(0,1]$ at each time $k$, and hence, the decision can be made locally at each page. Note that the probability $\alpha$ is a global parameter in that all pages share the same $\alpha$.
+
+Formally, the proposed distributed update scheme is described as follows. Let $\eta_i(k)\in\{0,1\}$, $i=1,\ldots,n$,
+
+GENERATED TEXT:
+ and $i=1,\ldots,
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ $k\in\Z_+$, be Bernoulli processes given by $$\eta_i(k) 
+   = \begin{cases}
+       1 & \text{if page $i$ initiates an update at time $k$},\\
+       0 & \text{otherwise},
+     \end{cases}$$ where their probability distributions are specified as $$\alpha := \Prob\bigl\{
+                  \eta_i(k)=1
+                \bigr\}.
+\label{eqn:alpha}$$ The process $\eta_i(k)$ is generated at the corresponding page $i$.
+
+Similarly to the argument in Section \[sec:dist1\], we start with the update law as in : $$x(k+1) = (1-\hat{m}) A_{\eta_1(k),\ldots,\eta_n(k)} x(k)
+      
+
+GENERATED TEXT:
+  \eta_{\eta_n(k
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+       + \frac{\hat{m}}{n} \one,
+\label{eqn:xAeta}$$ where $x(k)\in\R^n$, the initial state $x(0)$ is a probability vector, $\hat{m}\in(0,1)$ is the parameter used instead of $m$ in the centralized case, and $A_{\eta_1(k),\ldots,\eta_n(k)}$ are the distributed link matrices.
+
+The problem of distributed PageRank computation is formulated as follows: Find the distributed link matrices $A_{p_1,\ldots,p_n}$ and the parameter $\hat{m}$ such that, for the corresponding distributed update scheme , the PageRank value $x^*$ is obtained through the time average. This problem is a generalization of that in Section \[sec:dist1\], where only one page initiates an update at a time. The current approach is called the distributed scheme with simultaneous updates. Its analysis is more involved as we shall see.
+
+Distributed link matrices and their average
+-------------------------------------------
+
+We introduce the
+
+GENERATED TEXT:
+ problem of building an algorithm that can efficiently update the
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ distributed link matrices. Let the matrices $A_{p_1,\ldots,p_n}$ be given by $$\begin{aligned}
+ &\bigl(
+    A_{p_1,\ldots,p_n}
+ \bigr)_{ij}  := \begin{cases}
+      a_{ij} & \text{if $p_i = 1$ or $p_j = 1$},\\
+      1 - \sum_{h:~p_h=1} a_{hj}
+              & \text{if $p_i = 0$ and $i=j$},\\
+      0       & \text{if $p_i = p_j=0$ and $i\neq j$}
+    \end{cases} 
+\label{eqn:Aeta}\end{aligned}$$ for $p_r\in\{0,1\}$, $r\in\{1,\ldots,n\
+
+GENERATED TEXT:
+leq 1,\ldots}$ is
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+}$, and $i,j\in\{1,\ldots,n\}$. Clearly, there are $2^n$ matrices. They have the property that (i) if $p_i=1$, then the $i$th column and the $i$th row are the same as those in the original link matrix $A$, (ii) if $p_i=0$, then the $i$th diagonal entry is chosen so that the entries of the $i$th column add up to 1, and (iii) all other entries are 0. Hence, these are constructed as stochastic matrices. Notice that the link matrix $A_{p_1,\ldots,p_n}$ coincides with $A_i$ in when $p_i=1$ and $p_j=0$ for all $j\neq i$.
+
+We next analyze the average dynamics of the distributed update scheme in . For simplicity, as in Section \[sec:dist1\], we use the same notation $\overline{A}$ for the average link matrix given by $$\overline{A}:= E\bigl[A_{
+
+GENERATED TEXT:
+p_i~\cdot} \cd
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+\eta_1(k),\ldots,\eta_n(k)}\bigr],
+  \label{eqn:Abar}$$ where $E[\,\cdot\,]$ is the expectation with respect to $\eta_i(k)$, $i\in\Vcal$. This matrix $\overline{A}$ is stochastic. The following result shows that the average link matrix $\overline{A}$ has a clear relation to the original link matrix $A$. In particular, it implies that the two matrices share the eigenvector for eigenvalue 1.
+
+\[prop:simul:Aave\]For the average link matrix $\overline{A}$ given in , we have the following:
+
+1.  $\overline{A} = \bigl[1-(1-\alpha)^2\bigr] A + (1-\alpha)^2 I$.
+
+2.  There exists a vector $z_0\in\R_+^n$ which is an eigenvector corresponding to the eigenvalue 1 for both $A$ and $\overline{A}$.
+
+
+
+GENERATED TEXT:
+
+3.  $\overline{A}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+The proof of this proposition is preceded by a preliminary result. Observe that $\overline{A}$ can be written as $$\overline{A}
+   = \sum_{\ell=0}^{n} \alpha^{\ell} (1-\alpha)^{n-\ell} \hat{A}_{\ell},       
+ \label{eqn:simul:Aave}$$ where the matrices $\hat{A}_{\ell}$, $\ell=0,1,\ldots,n$, are given by $$\hat{A}_{\ell}
+   := \sum_{\substack{p_r\in\{0,1\},~r=1,\ldots,n:\;\\
+                        \sum_{r=1}^{n}p_r = \ell}}
+          A_{p_1,\ldots,p_n}.
+\label{eqn:Ahatl}$$ The matrix $\hat{A}
+
+GENERATED TEXT:
+_{\ell}
+
+\hat{A
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+_{\ell}$ is the sum of matrices for the cases where $\ell$ pages simultaneously initiate updates.
+
+These matrices can be explicitly written in terms of the original link matrix $A$. Here, we use the binomial coefficient given by $\comb{r}{k}:=r!/[(r-k)!\;k!]$. Note that $\comb{r}{0}=1$ for any $r\in\Z_+$.
+
+\[lem:Ahatl\]The matrices $\hat{A}_{\ell}$, $\ell=0,1,\ldots,n$, in can be expressed as follows: $$\hat{A}_{\ell}
+   = \begin{cases}
+       A  & \text{if $\ell=n$},\\
+       nA & \text{if $\ell=n-1$},\\
+      \bigl(\comb{n}{\ell} - \comb{n-2}{\ell}\bigr) A + \comb{n-2}{\ell} I
+        
+
+GENERATED TEXT:
+ \text{if $\ell=n$},
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+  & \text{if $\ell=0,\ldots,n-2$}.
+     \end{cases}
+\label{eqn:lem:Ahatl}$$
+
+[[*Proof:*]{}]{}We consider four cases as follows.
+
+(1) $\ell=n$:  This is the case when all pages initiate updates, and thus by definition $\hat{A}_n = A_{1,\ldots,1} = A$.
+
+(2) $\ell=n-1$:  When all but one page initiate updates, it is obvious from the definition that $A_{0,1,\ldots,1} = A_{1,0,1,\ldots,1} = \cdots 
+= A_{1,\ldots,1,0} = A$. Since there are $n$ such cases, their sum is $\hat{A}_{n-1} = nA$. (3) $\ell=0$:  In the case when none of the pages initiates an update, by definition, the matrix $A_{
+
+GENERATED TEXT:
+n,1,\ldots,1}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+0,\ldots,0}$ reduces to the identity matrix as $\hat{A}_0=A_{0,\ldots,0}=I$. Noting that $\comb{n}{0}=\comb{n-2}{0}=1$, we have .
+
+(4) $\ell=1,\ldots,n-2$:  To prove the expression of $\hat{A}_{\ell}$ for these cases, we must show for each entry that $$\begin{aligned}
+  \bigl(
+    \hat{A}_{\ell}
+  \bigr)_{ij}
+   &= \begin{cases}
+       \bigl(
+          \comb{n}{\ell} - \comb{n-2}{\ell}
+       \bigr) a_{ij} & \text{if $i\neq j$},\\
+       \comb{n-2}{\ell}    & \text{if $i= j$},
+
+
+GENERATED TEXT:
+
+\\      \frac{
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+     \end{cases}\notag\\
+   &\hspace*{2cm}i,j\in\{1,\ldots,n\}.  
+\label{eqn:Ahatl:4}\end{aligned}$$ In the following, the proof is divided into two steps for the cases of $i\neq j$ and $i=j$.
+
+(i) $i\neq j$:  By the definition of $A_{p_1,\ldots,p_n}$ in , its $(i,j)$ entry reduces to $$\bigl(
+   A_{p_1,\ldots,p_n}
+ \bigr)_{ij} 
+  = \begin{cases}
+      a_{ij} & \text{if $p_i = 1$ or $p_j = 1$},\\
+      0       & \text{otherwise}.
+    \end{cases}$$ Thus, from $$\begin{aligned}
+  \bigl(
+   
+
+GENERATED TEXT:
+ a_{ij} &    \text
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ \hat{A}_{\ell}
+  \bigr)_{ij}
+  &= \sum_{\substack{p_r\in\{0,1\},~r=1,\ldots,n:\\
+                        \sum_{r=1}^{n}p_r = \ell}}
+          \bigl(
+             A_{p_1,\ldots,p_n}
+          \bigr)_{ij} \notag\\
+  &= \sum_{\substack{p_r\in\{0,1\},~r=1,\ldots,n:\\
+                        \sum_{r=1}^{n}p_r = \ell~\text{and}\\
+                 
+
+GENERATED TEXT:
+    \bigl( A_{p
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+     (p_i = 1~\text{or}~p_j = 1)}}
+           a_{ij} \notag\\
+  &= \bigl(
+        2 \comb{n-1}{\ell-1} - \comb{n-2}{\ell-2}       
+     \bigr) a_{ij}, 
+\label{eqn:lem:Ahatl:4a}\end{aligned}$$ where the last equality is established by counting the number of cases where $p_i=1$ or $p_j=1$ holds among all possible combinations of $p_1,\ldots,p_n\in\{0,1\}$ such that $\ell$ of them are equal to 1. Using the formula for binomial coefficients $$\comb{r}{k}=\comb{r-1}{k} + \comb{r-1}{k-1},~~~r,k\in\Z_+,
+\label{eqn:binomial}$$ we can
+
+GENERATED TEXT:
+ calculate a binomial sum for each $1 of
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ show that $2 \comb{n-1}{\ell-1} - \comb{n-2}{\ell-2}
+ = \comb{n}{\ell} - \comb{n-2}{\ell}$. Hence, from , we arrive at for $i\neq j$.
+
+(ii) $i=j$:  Since $a_{ii}=0$ in the link matrix $A$ in and by , the $(i,i)$ entry of $A_{p_1,\ldots,p_n}$ is $$\bigl(
+    A_{p_1,\ldots,p_n}
+ \bigr)_{ii} 
+  = \begin{cases}
+      1 - \sum_{h:~p_h=1} a_{hi}
+              & \text{if $p_i = 0$},\\
+      0 & \text{if $p_i = 1$}.
+    \end{cases}$$ Hence, $$\begin{aligned}
+
+GENERATED TEXT:
+
+
+A_{i_i,\ld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+
+  \bigl(
+    \hat{A}_{\ell} 
+  \bigr)_{ii}
+  &= \sum_{\substack{p_r\in\{0,1\},~r=1,\ldots,n:\\
+                        \sum_{r=1}^{n}p_r = \ell}}
+          \bigl(
+             A_{p_1,\ldots,p_n}
+          \bigr)_{ii}   = \sum_{\substack{p_r\in\{0,1\},~r=1,\ldots,n:\\
+                        \sum_{r=1}^{n}p_r = \ell,~p_i = 0}}
+       \biggl(
+
+GENERATED TEXT:
+A_{\ell}_{\ell}_{
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+
+         1 - \sum_{h:\;p_h=1} a_{hi}
+       \biggr)\\
+  &= \comb{n-1}{\ell}
+      - \sum_{\substack{h=1\\ h\neq i}}^{n}
+          \sum_{\substack{p_r\in\{0,1\},~r=1,\ldots,n:~\\
+                \sum_{r=1}^{n}p_r = \ell,\;p_i = 0,\;p_h=1}}          
+                    a_{hi},\end{aligned}$$ where the first term is obtained by counting the number of possible combinations of $p_1,\dots,p_n$ such that their sum equals $\ell$ and $p_i=0$; the
+
+GENERATED TEXT:
+ second term is obtained by counting the number of possible
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ second term is a consequence of switching the order of two summations. By a combinatorial argument again, we have $\bigl(
+    \hat{A}_{\ell} 
+  \bigr)_{ii}
+  = \comb{n-1}{\ell}
+      - \comb{n-2}{\ell-1} \sum_{h=1, h\neq i}^n a_{hi}$. The original link matrix $A$ in is stochastic with diagonal entries being 0. This fact together with yields $\bigl(
+    \hat{A}_{\ell} 
+  \bigr)_{ii}
+  = \comb{n-1}{\ell}
+         - \comb{n-2}{\ell-1}
+  = \comb{n-2}{\ell}$. Therefore, is attained for the case $i=j$.
+
+  (i)  By and Lemma \[lem:Ahatl\], the matrix $\overline{A}$ can be computed directly as $$\begin{aligned}
+
+
+GENERATED TEXT:
+
+{\begin{aligned}
+
+\frac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+  \overline{A}
+   &= \sum_{\ell=0}^n \alpha^{\ell} (1-\alpha)^{n-\ell} \hat{A}_{\ell}\notag\\
+   &= \sum_{\ell=0}^{n-2} \alpha^{\ell} (1-\alpha)^{n-\ell} 
+       \bigl[        
+           \bigl(
+             \comb{n}{\ell} - \comb{n-2}{\ell}
+           \bigr) A
+             + \comb{n-2}{\ell} I  
+       \bigr]         + \alpha^{n-1} (1-\alpha) n A
+        + \alpha^{n} A \notag\\
+   &
+
+GENERATED TEXT:
+= \sum_{\ell=0}^{
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+= \sum_{\ell=0}^{n} \alpha^{\ell} (1-\alpha)^{n-\ell}
+                                   \comb{n}{\ell}A        + \sum_{\ell=0}^{n-2} \alpha^{\ell} (1-\alpha)^{n-\ell} \comb{n-2}{\ell}
+          \bigl( 
+            I - A 
+          \bigr). 
+\label{eqn:prop:simul:1}  \end{aligned}$$ In the first term above, we have by the binomial identity $\sum_{\ell=0}^{n} \alpha^{\ell} (1-\alpha)^{n-\ell} \comb{n}{\ell}
+  = [ \alpha + (1-\alpha)]^n 
+
+GENERATED TEXT:
+  \sum_{\ell=0}^{
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+
+  = 1$. Similarly, for the second term, $\sum_{\ell=0}^{n-2} \alpha^{\ell} (1-\alpha)^{n-\ell} \comb{n-2}{\ell}
+    = (1-\alpha)^2$. Substituting these relations into , we have $\overline{A} = A + (1-\alpha)^2 (I - A)$, which is the desired expression of $\overline{A}$.
+
+(ii)  The equality in (i) implies that any eigenvector $z_0$ of the link matrix $A$ associated with the eigenvalue 1 is also an eigenvector of the average matrix $\overline{A}$ for this eigenvalue.
+
+Mean-square convergence of the distributed update scheme
+--------------------------------------------------------
+
+To guarantee that the distributed scheme yields the PageRank value, we now examine the modified versions of the distributed link matrices. We first express the distributed update scheme of in its equivalent form as $$\begin{aligned}
+  x(k+1)
+   &= M_{\eta_1(k),\
+
+GENERATED TEXT:
+eta_2(k)} &= M_{
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ldots,\eta_n(k)} x(k),
+  \label{eqn:xMmod}\end{aligned}$$ where the modified distribution link matrices are given by $$\begin{aligned}
+  M_{p_1,\ldots,p_n}
+  &:= (1-\hat{m}) A_{p_1,\ldots,p_n} 
+        + \frac{\hat{m}}{n}S,
+    ~~~~p_1,\ldots,p_n\in\{0,1\}.
+\label{eqn:Meta}\end{aligned}$$ This form can be obtained by using the facts that the link matrices $A_{p_1,\ldots,p_n}$ are stochastic and that $Sx(k)=\one$. Clearly, these matrices $M_{p_1,\ldots,p_n}$ are positive and stochastic.
+
+The objective here is to find the modified link matrices $M_{p_1,\ldots,p_n}$, by selecting
+
+GENERATED TEXT:
+ the variables that are closest to the link matrices
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ the parameter $\hat{m}$, so that their average and the link matrix $M$ from share an eigenvector corresponding to the eigenvalue 1. Since such an eigenvector is unique for $M$, it is necessarily equal to the value vector $x^*$.
+
+As in the earlier case in Section \[sec:dist1\], we take the parameter $\hat{m}$ to be different from the original $m$. In particular, let $$\begin{aligned}
+  \hat{m} 
+   = \frac{m[1 - (1 - \alpha)^2]}{1 - m (1 - \alpha)^2}.
+ \label{eqn:mhat2}\end{aligned}$$ For the value $m=0.15$ used in this paper, we have $\hat{m} 
+= 0.15[1 - (1 - \alpha)^2]/[1 - 0.15 (1 - \alpha)^2]$. Then, let the average link matrix be $\overline{M}:= \E[M_{\eta_1(k),\ldots,\eta_n(k
+
+GENERATED TEXT:
+),\ldots,\eta_n(
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+)}]$. Here, the distributed link matrices are positive stochastic matrices, which implies that the average matrix $\overline{M}$ enjoys the same property.
+
+The next lemma is the key to establish the desired relation between the distributed link matrices and their average. It is stated without proof; it follows similarly to that for Lemma \[lem:Mbar\].
+
+\[lem:Mbar2\]The scalar $\hat{m}$ in and the link matrices $M_{p_1,\ldots,p_n}$ in have the following properties:
+
+1.  $\hat{m}\in(0,1)$ and $\hat{m}\leq m$.
+
+2.  $\overline{M} = \frac{\hat{m}}{m} M + \left(1 - \frac{\hat{m}}{m}\right)I$.
+
+3.  For the average matrix $\overline{M}$, the eigenvalue 1 is simple and is the unique eigenvalue of maximum modulus. The value vector $x^*$ is the corresponding eigenvector.
+
+We can show
+
+GENERATED TEXT:
+ that in addition to their linearity, the distributed
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ by (iii) in the lemma that, in an average sense, the distributed update scheme asymptotically obtains the correct values. More precisely, we have $E[x(k)]=\overline{M}^{k} x(0)\rightarrow x^*$ as $k\rightarrow\infty$. Further, as discussed in Section \[sec:pagerank\], the asymptotic rate of convergence is dominated by the second largest eigenvalue $\lambda_2(\overline{M})$ in magnitude. By and (ii) in the lemma, this eigenvalue can be bounded as $$\begin{aligned}
+  \abs{\lambda_2(\overline{M})}
+    &= \frac{\hat{m}}{m}\abs{\lambda_2(M)} 
+       + 1 - \frac{\hat{m}}{m}
+    \leq \frac{1 - m}{1 - m (1 - \alpha)^2}.\end{aligned}$$ It is clear that this is a monotonically decreasing function of $\alpha$ and $m$. That
+
+GENERATED TEXT:
+ is, when the eigenvalue is bounded as
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ is, higher probability in updates and/or larger $m$ results in faster convergence in average.
+
+We are now ready to state the main result of this section.
+
+\[thm:erg2\]Consider the distributed scheme with simultaneous updates in . For any update probability $\alpha\in(0,1]$, the PageRank value $x^*$ is obtained through the time average $y$ in as $E\bigl[
+   \bigl\|
+      y(k) - x^*
+   \bigr\|^2
+  \bigr] \rightarrow 0$, $k\rightarrow\infty$.
+
+The proof follows along similar lines as that in Theorem \[thm:erg\]. More specifically, we can prove either by the general Markov chain results of, e.g., [@Cogburn:86] or by Appendix \[sec:app:B\] where we replace the expression of $\overline{M}$ there with the one in Lemma \[lem:Mbar2\]. Hence, the convergence is of order $1/k$, as in the algorithm
+
+GENERATED TEXT:
+ described above. The result is, an efficient correction
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ of Section \[sec:dist1\]; it also depends on the update probability $\alpha$ but is independent of $n$.
+
+We remark that this scheme is fully decentralized when $\alpha<1$. It is parameterized by $\alpha$, which determines the frequency in the updates, communication load among the pages, and the rate of convergence in the mean as we have seen above. In practice, the recursion in must be implemented in the equivalent form . It is clear that communication is required only over the links corresponding to the nonzero entries in the link matrices there. Each page then computes weighted additions of its own value, the values received from others, and the constant $\hat{m}/n$. On the other hand, when $\alpha=1$, the scheme reduces to the original centralized one in Section \[sec:pagerank\]. In this case, the distributed link matrix is $M_{1,\ldots,1}$ and coincides with the original $M$ because $\hat{m}=m$ and $A_{1,\ldots,1}=A$ from Lemma \[lem:Ahatl\].
+
+Update termination in PageRank computation {#sec
+
+GENERATED TEXT:
+:pagerank\] The frequency in each page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+:approx}
+==========================================
+
+In this section, we further develop the distributed algorithm for calculating the PageRank. We relax the objective and aim at obtaining approximate values of the PageRank. The key feature here is to allow the pages to terminate their updates at the point when the values have converged to a certain level. The benefit is that such values need to be transmitted only once to the linked pages; hence, the computation and communication load can be reduced.
+
+In a centralized setting, the idea of update termination for the PageRank computation has been introduced by [@KamHavGol:04]. We extend this idea to the distributed update scheme of Section \[sec:simul\]. First, we consider a simple case to attain a convergence result. Then, we provide the details of the proposed algorithm.
+
+Convergence properties for the distributed scheme
+-------------------------------------------------
+
+Consider the distributed update scheme with simultaneous updates in for computing the values $x(k)$ together with their time average $y(k)$. Within this subsection, we fix the sample paths $\{\eta_j(k)\}_{k=0}^{k_0-1}$, $j=1,\ldots
+
+GENERATED TEXT:
+\frac{1}{2-1}$
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+,n$, up to time $k_0-1$ of the processes specifying the updates in the pages. Suppose that some of the time averages $y_i(k_0)$ have, in an approximate sense, converged. This is measured by finding those that have varied only within sufficiently small ranges for a certain number of time steps. We introduce two parameters: Let $\delta\in(0,1)$ be the relative error level, and let $N_s$ be the number of steps. Using the history of its own time average $y_i$, each page $i$ then determines at time $k_0$ whether the following condition holds: $$\abs{y_i(k_0) - y_i(k_0-\ell)} \leq \delta y_i(k_0),~~\ell=1,2,\ldots,N_s.
+\label{eqn:yconv}$$ If so, then (i) the page $i$ will terminate its update and fix its estimate at $y_i(k_0)$, and then (ii) this value $y_i(k_0)$ is
+
+GENERATED TEXT:
+ the absolute value of the value of $$\abs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ transmitted to the pages connected to $i$ by direct links. After this point, these values will be used at the pages performing further updates.
+
+The question of interest is whether the pages that continue with their updates after time $k_0$ will reach a good estimate of their true values. In what follows, we show that the answer is positive and the approximation level achievable in the estimate will be as good as that for the pages that have terminated their updates. Note that the analysis is based on the given sample paths $\{\eta_j(k)\}_{k=0}^{k_0-1}$, and hence the state $x$ and its average $y$ up to time $k_0$ are fixed; we study their stochastic behaviors after this time.
+
+Let $\Ccal(k_0)$ be the set of page indices that have reached good estimates at time $k_0$ as $$\begin{aligned}
+ \Ccal(k_0) 
+   &:= \bigl\{
+       i\in\Vcal:~
+         \abs{y_i(k_0)
+
+GENERATED TEXT:
+ + x_i(k_1) +
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ - y_i(k_0-\ell)} \leq \delta y_i(k_0),           ~~\ell=1,2,\ldots,N_s
+      \bigr\}.\end{aligned}$$ The cardinality of this set is denoted by $n_1(k_0)$. We assume $n_1(k_0)\geq 1$. Also, let $\Ncal(k_0) := \Vcal \setminus \Ccal(k_0)$.
+
+Based on these sets, we introduce a coordinate transformation for the state $x(k)$ and partition it as $$x(k) 
+   = \begin{bmatrix}
+       x_{\Ccal}(k)\\ 
+       x_{\Ncal}(k)
+     \end{bmatrix},~~~k\geq k_0,$$ where $x_{\Ccal}(k)\in\R^{n_1(k_0)}$ contains the
+
+GENERATED TEXT:
+ set of states $x_{\Ccal}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ values of the pages in $\Ccal(k_0)$ and $x_{\Ncal}(k)\in\R^{n-n_1(k_0)}$ contains those of the pages in $\Ncal(k_0)$. With slight abuse of notation, we write the transformed state by $x(k)$. Also, we use the shorthand notation $A_{p}$ for $A_{p_1,\ldots,p_n}$, $p_i\in\{0,1\}$, $i\in\Vcal$. Then, the distributed link matrices $A_{p}$ in and the average link matrix $\overline{A}$ in are partitioned accordingly as $$A_{p}
+    = \begin{bmatrix}
+         A_{p,\Ccal\Ccal} & A_{p,\Ccal\Ncal}\\
+         A_{p,\Ncal\Ccal} & A_{p,\Ncal\Ncal}
+       \end{bmatrix},~~~
+
+
+GENERATED TEXT:
+
+$A_{p,\Ccal\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ \overline{A} 
+   = \begin{bmatrix}
+       \overline{A}_{\Ccal\Ccal} & \overline{A}_{\Ccal\Ncal}\\
+       \overline{A}_{\Ncal\Ccal} & \overline{A}_{\Ncal\Ncal}
+       \end{bmatrix}.
+\label{eqn:Abar:part}$$
+
+Since the time average $y_{\Ccal}$ has converged sufficiently by time $k_0$, the proposed approach employs the value $y_{\Ccal}(k_0)$ as $x_{\Ccal}(k)$ for all $k\geq k_0$. Hence, the value at time $k_0$ is reset as $$x(k_0)
+  = \begin{bmatrix}
+      y_{\Ccal}(k_0)\\
+      x_{\Ncal}(k_0)
+    \
+
+GENERATED TEXT:
+end{bmatrix}
+
+\label
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+end{bmatrix}.$$ The updates are carried out through the distributed algorithm given by $$x(k+1) 
+   = \widetilde{A}_{\eta(k)} x(k) + \frac{\hat{m}}{n} \tilde{s},
+     ~~~~k\geq k_0, 
+ \label{eqn:approx:dist:x}$$ where $$\begin{aligned}
+ \widetilde{A}_{\eta(k)} 
+   &= \begin{bmatrix}
+       I & 0\\
+       \widetilde{A}_{\eta(k), \Ncal\Ccal} 
+            & \widetilde{A}_{\eta(k),\Ncal\Ncal}
+     \end{bmatrix}   := \begin{bmatrix}
+       I & 0\\
+       (1-\hat{m})A_{\eta(k),
+
+GENERATED TEXT:
+\Ncal\Ncal}
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ \Ncal\Ccal} 
+         & (1-\hat{m})$ $A_{\eta(k),\Ncal\Ncal}
+     \end{bmatrix},
+ \tilde{s}
+  := \begin{bmatrix}
+       0\\
+       \one
+     \end{bmatrix},    \label{eqn:approx:dist:Aeta}\end{aligned}$$ with $\one\in\R^{n-n_1(k_0)}$. We note that the matrices $\widetilde{A}_{p}$ are nonnegative, but are no longer stochastic; the sums of the entries of the first $n_1(k_0)$ columns are larger than 1 while those of the other columns are smaller than 1. Hence, though $x(k)\geq 0$ still holds, the state $x(k)$ may not be a probability vector. In addition, this scheme is in the distributed form of , and not the one in based on the modified
+
+GENERATED TEXT:
+ form that we saw in the previous section.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ link matrices.
+
+The time average $y(k)$ is also modified by fixing the entries for $i\in\Ccal(k_0)$ as $$y(k) 
+   = \begin{bmatrix}
+       y_{\Ccal}(k_0)\\ 
+       y_{\Ncal}(k)
+     \end{bmatrix},~~~~k\geq k_0,$$ where $y_{\Ncal}(k)$ is determined through the original formula .
+
+For the approximate update scheme , its average state $\overline{x}(k):=E[x(k)]$ follows the recursion $$\overline{x}(k+1)
+    = \widehat{A}\; \overline{x}(k) + \frac{\hat{m}}{n}\tilde{s},
+     ~~~k\geq k_0,
+  \label{eqn:approx:xave}$$ where the average link matrix $\widehat{A}:= E
+
+GENERATED TEXT:
+[x(k)+1]$ is used
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+[\widetilde{A}_{\eta(k)}]$ is given by $$\widehat{A}
+    = \begin{bmatrix}
+       I & 0\\
+       \widehat{A}_{\Ncal\Ccal} 
+         & \widehat{A}_{\Ncal\Ncal} 
+     \end{bmatrix}
+    := \begin{bmatrix}
+       I & 0\\
+       (1-\hat{m})\overline{A}_{\Ncal\Ccal} 
+          & (1-\hat{m})\overline{A}_{\Ncal\Ncal}
+     \end{bmatrix}.
+\label{eqn:Mtilbar}$$ Regarding this average link matrix, the following result will be useful in the subsequent development.
+
+\[lem:Ann\]The submatrix $\widehat{A}_{\
+
+GENERATED TEXT:
+Ncal\Ccal}$ is given by
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+Ncal\Ncal}$ of the average link matrix $\widehat{A}$ as given in satisfies the following:
+
+1.  $\rho(\widehat{A}_{\Ncal\Ncal})\in[0,1-\hat{m}]$ and, in particular, $\widehat{A}_{\Ncal\Ncal}$ is a stable matrix.
+
+2.  $(I-\widehat{A}_{\Ncal\Ncal})^{-1}\geq 0$.
+
+[[*Proof:*]{}]{}(i) Since the original average link matrix $\overline{A}$ in is a stochastic matrix, the block diagonal matrix $\diag(0,\overline{A}_{\Ncal\Ncal})$ containing the submatrix $\overline{A}_{\Ncal\Ncal}$ satisfies $\overline{A}\geq \diag(0,\overline{A}_{\Ncal\Ncal})\geq 0$. By the property of nonnegative matrices [@HorJoh:85], it follows that $1=
+
+GENERATED TEXT:
+0,\overline{A}_{\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+\rho(\overline{A})\geq \rho(\overline{A}_{\Ncal\Ncal})\geq 0$. Therefore, $\rho(\widehat{A}_{\Ncal\Ncal})=
+\rho((1-\hat{m})\overline{A}_{\Ncal\Ncal})\in[0,1-\hat{m}]$. By Lemma \[lem:Mbar2\] (i), $\hat{m}\in(0,1)$ and hence $\rho(\widehat{A}_{\Ncal\Ncal})<1$. (ii) Let $\lambda:=1-\rho(\widehat{A}_{\Ncal\Ncal})$. This is the eigenvalue of $I-\widehat{A}_{\Ncal\Ncal}$ with the smallest real part. By (i), we have $\lambda>0$. Thus, $I-\widehat{A}_{\Ncal\Ncal}$ is an $M$-matrix[^8], so it has an inverse that is non
+
+GENERATED TEXT:
+zero. This is why it is called an $\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+negative [@HorJoh:91].
+
+We remark that in (i) in the lemma, the level of stability is affected by the parameter $\alpha$ as it determines the size of $\hat{m}$.
+
+It is clear that the value vector $x^*$ (with the coordinate change) is an equilibrium of the system . We partition it as $$x^* = \begin{bmatrix}
+         x_{\Ccal}^*\\
+         x_{\Ncal}^*
+       \end{bmatrix}.
+\label{eqn:approx:xast}$$ It is also simple to show that the vector $\widetilde{x}(k_0)$ given by $$\begin{aligned}
+ \widetilde{x}(k_0)
+  &= \begin{bmatrix}
+        \widetilde{x}_{\Ccal}(k_0)\\
+        \widetilde{x}_{\Ncal}(k_
+
+GENERATED TEXT:
+0)
+
+_ &= \begin{
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+0)
+      \end{bmatrix}  := \begin{bmatrix}
+       y_{\Ccal}(k_0)\\
+       \bigl(
+         I - \widehat{A}_{\Ncal\Ncal}
+       \bigr)^{-1} 
+         \bigl(
+           \widehat{A}_{\Ncal\Ccal}\;
+             y_{\Ccal}(k_0) + \frac{\hat{m}}{n}s
+         \bigr)
+     \end{bmatrix}
+\label{eqn:approx:xdash2}\end{aligned}$$ is an equilibrium of the system . This vector always exists by (ii) in the lemma above.
+
+After the pages in $\Ccal(k_0)$ have terminated their updates, the
+
+GENERATED TEXT:
+ results of the λ(k_0)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ dynamics of the scheme can be characterized as follows.
+
+\[lem:approx:xdash2\]For the distributed update scheme and its average system , the following statements hold.
+
+1.  The average state $\overline{x}(k)$ converges to $\widetilde{x}(k_0)$ and, in particular, $\overline{x}_{\Ncal}(k)\rightarrow \widetilde{x}_{\Ncal}(k_0)$ as $k\rightarrow\infty$.
+
+2.  If $\abs{\widetilde{x}_{\Ccal}(k_0)-x_{\Ccal}^*}\leq\delta x_{\Ccal}^*$, then $\abs{\widetilde{x}_{\Ncal}(k_0)-x_{\Ncal}^*}\leq \delta x_{\Ncal}^*$.
+
+[[*Proof:*]{}]{}(i) Since $\widetilde{x}(k_0)$ is an equilibrium of the average system , it follows that $$
+
+GENERATED TEXT:
+\[\overline{x}_{\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+\begin{aligned}
+ \overline{x}(k+1) - \widetilde{x}(k_0) 
+  &= \begin{bmatrix}
+      I & 0\\
+      \widehat{A}_{\Ncal\Ccal} & \widehat{A}_{\Ncal\Ncal}
+    \end{bmatrix} 
+      \bigl(
+         \overline{x}(k)-\widetilde{x}(k_0)
+      \bigr).\end{aligned}$$ Here, we have $\overline{x}_{\Ccal}(k) - \widetilde{x}_{\Ccal}(k_0)=0$, $k\geq k_0$. Thus, $$\begin{aligned}
+ \overline{x}_{\Ncal}(k+1) - \widetilde{x}_{\Ncal}(k_0) 
+    &= \widehat{
+
+GENERATED TEXT:
+A}_{\Ncal\Ccal}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+A}_{\Ncal\Ncal} 
+          \left(
+             \overline{x}_{\Ncal}(k) - \widetilde{x}_{\Ncal}(k_0) 
+          \right).
+$$ By Lemma \[lem:Ann\](i), $\widehat{A}_{\Ncal\Ncal}$ is a stable matrix. Hence, we have $\overline{x}_{\Ncal}(k) - \widetilde{x}_{\Ncal}(k_0) \rightarrow 0$ as $k\rightarrow\infty$.
+
+(ii) For the average system , $\widetilde{x}(k_0)$ and $x^*$ are both equilibria, and thus $$\widetilde{x}_{\Ncal}(k_0) - x_{\Ncal}^*
+   = \bigl(
+        I - \widehat{
+
+GENERATED TEXT:
+A}_{\Ncal}(k_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+A}_{\Ncal\Ncal}
+     \bigr)^{-1} \widehat{A}_{\Ncal\Ccal} 
+           \bigl(
+              \widetilde{x}_{\Ccal}(k_0) - x^*_{\Ccal}
+           \bigr).$$ By Lemma \[lem:Ann\](ii), $(I - \widehat{A}_{\Ncal\Ncal})^{-1}\geq 0$. Moreover, by construction, $\widehat{A}_{\Ncal\Ccal}\geq 0$. Thus, using the assumption, we have $$\begin{aligned}
+ \left|
+    \widetilde{x}_{\Ncal}(k_0) - x_{\Ncal}^*
+ \right|
+  &\leq \bigl(
+            I - \widehat{A}_{\Ncal
+
+GENERATED TEXT:
+\Ncal})^{-1}\geq
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+\Ncal}
+        \bigr)^{-1} \widehat{A}_{\Ncal\Ccal} \;
+           \left| 
+             \widetilde{x}_{\Ccal}(k_0) - x^*_{\Ccal}
+           \right| \\
+  &\leq \bigl(
+          I - \widehat{A}_{\Ncal\Ncal}
+       \bigr)^{-1} \widehat{A}_{\Ncal\Ccal} \;
+           \delta x^*_{\Ccal}\\
+  &\leq \delta 
+          \bigl(
+             I - \widehat{A}_{\Ncal\Ncal}
+       
+
+GENERATED TEXT:
+   \bigr)^{-1}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+   \bigr)^{-1} 
+          \biggl(
+             \widehat{A}_{\Ncal\Ccal} \; x^*_{\Ccal} 
+               + \frac{\hat{m}}{n}\one
+          \biggr)
+  = \delta x^*_{\Ncal},\end{aligned}$$ where the last equality follows because $x^*$ is an equilibrium of .
+
+The lemma shows that if the values in $y_{\Ccal}(k_0)=\widetilde{x}_{\Ccal}(k_0)$ are actually close to the true values $x^*_{\Ccal}$, then via the recursion in , we can still obtain an approximate value $\widetilde{x}_{\Ncal}(k_0)$ in the average sense for all other states; the approximation level is the same as that for $\widetilde{x}_{
+
+GENERATED TEXT:
+\Ncal}(k_0)$
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+\Ccal}(k_0)$, represented by the parameter $\delta$.
+
+The following is the main convergence result for the scheme described in this section.
+
+\[thm:approx:erg\]Consider the distributed scheme in , where under the given sample paths $\{\eta_i(k)\}_{k=0}^{k_0-1}$, $i=1,\ldots,n$, at time $k_0$, the updates at $n_1(k_0)$ pages have terminated. The time average $y_{\Ncal}(k)$, $k\geq k_0$, converges to the equilibrium $\widetilde{x}_{\Ncal}(k_0)$ in the mean-square sense as $E\bigl[
+   \bigl\|
+      y_{\Ncal}(k) - \widetilde{x}_{\Ncal}(k_0)
+   \bigr\|^2
+  \bigr] \rightarrow 0$, $k\rightarrow\infty$.
+
+The proof is presented in Appendix 
+
+GENERATED TEXT:
+-- "Computational Algorithms for Comp
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+\[sec:app:C\]. It is based on that for Theorem \[thm:erg\]. However, unlike the setup there, the distributed link matrices in the current scheme are not stochastic. This means that we cannot employ general Markov process results of, e.g., [@Cogburn:86]. In contrast, the proof relies on the stability of the submatrix $\widehat{A}_{\Ncal\Ncal}$ as shown in Lemma \[lem:Ann\](i). Also, for this reason, the analysis does not involve the modified link matrices such as $M_{\eta_1(k),\ldots,\eta_n(k)}$ that appeared in the previous section.
+
+Distributed algorithm with update termination
+---------------------------------------------
+
+We present the distributed algorithm with update termination based on the results from this section.
+
+\[alg:dist\] For $i\in\Vcal$, page $i$ executes the following.
+
+1.  Initialize the parameters $n$, $\alpha$, $x_i(0)$, $N_s$, and $\delta$. Set $k=
+
+GENERATED TEXT:
+1$ and increase the range of $n$
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+0$, $\Ccal(0)=\emptyset$, and $n_1(0)=0$.
+
+2.  At time $k$, generate $\eta_i(k)\in\{0,1\}$ under the probability $\alpha$. If $\eta_i(k)=1$, then send the value $x_i(k)$ to pages $j\nin\Ccal(k)$ that it is linked to, and request pages $j\nin\Ccal(k)$ having links to it for their values.
+
+3.  Update the value $x_i(k)$ and its time average by $$\begin{split}
+      x_i(k+1) 
+      &= \sum_{j=1}^n
+            \bigl(
+               \widetilde{A}_{\eta(k)} 
+            \bigr)_{ij}\; x_j(k)
+      
+
+GENERATED TEXT:
+        \bigr
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+           + \frac{\hat{m}}{n},\\
+     y_i(k) 
+      &= \frac{1}{k+1} \sum_{\ell=0}^{k}x_i(\ell),
+    \end{split}
+    \label{eqn:alg:dist:x}$$ where $\widetilde{A}_{\eta(k)}$ is constructed by using $\Ccal(k)$.
+
+4.  Check if $y_i(k)$ has sufficiently converged based on . If so, then (i) add $i$ to the set $\Ccal(k)$, (ii) send $y_i(k)$ to the pages having direct links to page $i$, and (iii) fix $x_i(\ell)=y_i(\ell)=y_i(k)$ for $\ell\geq k$.
+
+5.  If $\Ccal(k)=\Vcal$, then terminate the algorithm. Otherwise, set $\Ccal(k+1)=\Ccal(k
+
+GENERATED TEXT:
++1+1)\,. The result is the
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+)$ and $k=k+1$, and then go to Step 1.
+
+We remark that, in this scheme, the choice of the parameters $\delta$ and $N_s$ affects the accuracy in the values when the pages terminate their updates as well as the time when the pages decide to do so. Taking $\delta$ smaller and/or $N_s$ larger will improve the value estimates, but will require longer time before the updates terminate; this in turn will keep the computation and communication load higher.
+
+Discussion on asynchronous iteration methods {#sec:asynch}
+============================================
+
+In this section, we discuss the application of a numerical analysis method known as asynchronous iteration [@BerTsi:89] to the distributed computation of PageRank values. Deterministic algorithms for the PageRank problem under this approach have been discussed in, e.g., [@deJBra:07; @KolGalSzy:06]. We present a randomization-based algorithm and clarify its relation to the schemes of this paper.
+
+Consider the original update scheme in based on the power method. Let $\eta_i(k)\in\{0,1\}$ for $i\
+
+GENERATED TEXT:
+in \{k_i,k_k
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+in\Vcal$, $k\in\Z_+$, be the i.i.d. random processes whose distributions are as in . Similarly to the scheme with simultaneous updates in Section \[sec:simul\], when $\eta_i(k)=1$ at time $k$, then page $i$ initiates an update; such an event occurs with probability $\alpha$. However, the difference is that this update is performed as in the power method, and moreover pages whose corresponding processes $\eta_i(k)$ are zero do not make any updates.
+
+The distributed update recursion is given as follows: $$\check{x}(k+1) = \check{M}_{\eta_1(k),\ldots,\eta_n(k)} 
+                        \check{x}(k),
+\label{eqn:xasynch}$$ where the initial state $\check{x}(0)$ is a probability vector and the link matrices are given by $$\begin{aligned}
+ \bigl(
+    
+
+GENERATED TEXT:
+   0 , \ldots, \eta
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ \check{M}_{p_1,\ldots,p_n}
+ \bigr)_{ij}
+  := \begin{cases}
+       (1-m)a_{ij}+ \frac{m}{n} & \text{if $p_i = 1$},\\
+       1                       & \text{if $p_i = 0$ and $i=j$},\\
+       0                       & \text{otherwise}.
+     \end{cases}\end{aligned}$$ It is clear that these matrices keep the rows of the original link matrix $M$ in for the pages that initiate updates. Other pages just keep their previous values. Thus, these matrices are not stochastic.
+
+The following result shows that through this algorithm, we can compute the PageRank values.
+
+\[lem:asynch\]Under the distributed update scheme of ,
+
+GENERATED TEXT:
+ we can generate an algorithm that will outperform the
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ for every initial state $x(0)$ that is a probability vector, the PageRank value $x^*$ is obtained as $\check{x}(k)\rightarrow x^*$, $k\rightarrow\infty$, with probability one.
+
+The distributed update scheme in is a randomized version of the one in [@BerTsi:89 Section 6.2], and the proof can be extended in a straightforward way. Specifically, it relies on the property $\rho(M)=1$ that the link matrix $M$ has. The algorithm is based on general asynchronous iteration algorithms for distributed computation of fixed points in the field of numerical analysis. It is interesting to note that the proof of the result above employs an argument similar to that of Lyapunov functions. We also point out that the convergence rate is exponential and the general scheme can handle delays in the communication. In comparison, the algorithms proposed in this paper have the following characteristic features. First, the link matrices in the update schemes and are stochastic, and this property is exploited in the convergence analysis. It moreover provides the relation to consensus type problems as discussed in Section \[sec:consensus\]. Second, there is a difference with
+
+GENERATED TEXT:
+ the implementation of X. The implementation of $\[
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ regard to the type of links over which communication takes place. In particular, it is shown in a subsequent paper [@IshTemBaiDab:09] that the present approach can be extended in such a way that each page communicates only with those connected by outgoing links; the information of such links are by default available locally. By contrast, in the asynchronous iteration algorithm, pages must utilize the incoming links. This means that popular pages linked from many pages need extra storage to keep the data of such links.
+
+Numerical example {#sec:example}
+=================
+
+We present an example with 1,000 web pages ($n=1,000$). The links among the pages were randomly generated. The first ten pages are designed to have high rankings and are given links from over 90% of the pages. Others have between 2 and 333 links per page.
+
+We ran Algorithm \[alg:dist\] in Section \[sec:approx\] where each page initiates an update at a fixed probability $\alpha=0.01$ and terminates the updates when an approximate value is obtained. In the distributed scheme , we generated sample paths of the processes $\eta_i(k)$, $
+
+GENERATED TEXT:
+n$, and $\eta_k(k)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+i\in\Vcal$, which determine the pages initiating updates, and computed the state $x(k)$. The initial state $x(0)$ was taken as a random probability vector. The parameters for the update termination were chosen as follows: The number $N_s$ of steps before stopping the update was $N_s=800$ and the parameter $\delta$ determining the level of approximation was $\delta=0.01$. We chose these values so that the characteristics of this scheme are visible in the plots.
+
+The responses of the time average $y_i$ for $i=21,\ldots,30$ are shown in Fig. \[fig:y\_term\]. The time when the corresponding pages terminated their updates are marked by $\bigcirc$. We observe that the convergence is fairly fast, and the updates stop by time $k=4,500$ for these pages.
+
+Let the errors in the estimates be $e(k):=y(k)-x^*$. In Fig. \[fig:err\_term\], these are shown for two cases: $\norm{e(k)}_{1}$ under the $\ell_1$
+
+GENERATED TEXT:
+ form, and $\ell_2$ under the
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ norm and $\norm{e(k)}_{\infty}$ under the $\ell_{\infty}$ norm. The plot shows that the error in the individual values of $y_i$ (measured by the $\ell_{\infty}$ norm) rapidly decreases and remains small while the total error (in the $\ell_1$ norm) also decreases but at a slower rate.
+
+In Fig. \[fig:pr\_term\], the final values of $y_i$ for the first twenty pages are plotted as $\bigcirc$ together with the acceptable ranges of error, that is, $[(1-\delta)x^*_i,(1+\delta)x^*_i]$ by two lines connected in the middle. As we mentioned in Section \[sec:approx\], the time average $y$ is no longer normalized in this case. However, the sum of all $y_i$ at $k=8,000$ turned out to be about $0.989$, which is very close to the desired value 1.
+
+Conclusion {#sec:concl}
+==========
+
+In this paper,
+
+GENERATED TEXT:
+ we discuss how to obtain the appropriate values for $\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ we first gave an overview of the PageRank computation problem, which is critical in making accurate search results with Google. We introduced a randomization-based distributed approach for the computation of PageRank values and showed the mean-square convergence of the proposed schemes. It was demonstrated that the approach has a clear relation to consensus type problems. The algorithms were generalized in the recent papers [@IshTem_acc:09; @IshTemBaiDab:09], where random link failures and computations based on aggregating groups of pages are addressed and more discussions on the advantages of this approach can be found. Future research will deal with the effects of communication delays and the improvement of convergence rate, and also study issues related to implementation of the proposed distributed algorithms.
+
+[*Acknowledgement*]{}: We are thankful to Er-Wei Bai, B. Ross Barmish, Tamer Başar, Fabrizio Dabbene, Soura Dasgupta, Shinji Hara, Zhihua Qu, M. Vidyasagar, and Yutaka Yamamoto for their helpful comments and discussions on this work.
+
+[10]{}
+
+Special section on complex networked control systems. , 27(
+
+GENERATED TEXT:
+1):13-29., 2014.
+
+[
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+4), 2007.
+
+R. Andersen, C. Borgs, J. Chayes, J. Hopcroft, V.S. Mirrokni, and S.-H. Teng. Local computation of [P]{}age[R]{}ank contributions. In [*Algorithms and Models for the Web-Graph*]{}, volume 4863 of [ *Lect. Notes Comp. Sci.*]{}, pages 150–165. Springer, Berlin, 2007.
+
+P.J. Antsaklis and J. Baillieul[, Guest Editors]{}. Special [I]{}ssue on the [T]{}echnology of [N]{}etworked [C]{}ontrol [S]{}ystems. , 95(1), 2007.
+
+K. Avrachenkov, N. Litvak, D. Nemirovsky, and N. Osipova. Monte [C]{}arlo methods in [P]{}age[R]{}ank computation: [W]{}hen one iteration is sufficient
+
+GENERATED TEXT:
+ to achieve an optimal age of [P]{
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+. , 45:890–904, 2007.
+
+D.P. Bertsekas and J.N. Tsitsiklis. . Prentice-Hall, Englewood Cliffs, NJ, 1989.
+
+D.P. Bertsekas and J.N. Tsitsiklis. Comments on “[C]{}oordination of groups of mobile autonomous agents using nearest neighbor rules”. , 52:968–969, 2007.
+
+S. Boyd, A. Ghosh, B. Prabhakar, and D. Shah. Randomized gossip algorithms. , 52:2508–2530, 2006.
+
+S. Brin and L. Page. The anatomy of a large-scale hypertextual [Web]{} search engine. , 30:107–117, 1998.
+
+K. Bryan and T. Leise. The \$25,000,000,000 eigenvector: [T]{}he linear algebra behind [G]{}oogle. , 48:569–581, 2006.
+
+R. Carli, F. Fagnani, A
+
+GENERATED TEXT:
+. Bertsekas, and M.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+. Speranzon, and S. Zampieri. Symmetries in the coordinated consensus problem. In P. J. Antsaklis and P. Tabuada, editors, [*Networked Embedded Sensing and Control Workshop*]{}, volume 331 of [*Lect. Notes Contr. Info. Sci.*]{}, pages 25–51. Springer, Berlin, 2005.
+
+R. Cogburn. On products of random stochastic matrices. , 50:199–213, 1986.
+
+D.V. de Jager and J.T. Bradley. Asynchronous iterative solution for state-based performance metrics. In [*Proc. ACM SIGMETRICS*]{}, pages 373–374, 2007.
+
+D.J. Hartfiel. , volume 1695 of [*Lect. Notes Math.*]{} Springer, Berlin, 1998.
+
+Y. Hatano and M. Mesbahi. Agreement over random networks. , 50:1867–72, 2005.
+
+R.A. Horn and C.R. Johnson. . Cambridge Univ. Press
+
+GENERATED TEXT:
+ Conference on Precision and Communication. In P. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+, 1985.
+
+R.A. Horn and C.R. Johnson. . Cambridge Univ. Press, 1991.
+
+H. Ishii and R. Tempo. A distributed randomized approach for the [P]{}age[R]{}ank computation: Parts 1 and 2. In [*Proc. [47]{}th IEEE Conf. on Decision and Control*]{}, pages 3523–3528 and 3529–3534, 2008.
+
+H. Ishii and R. Tempo. Computing the [P]{}age[R]{}ank variation for fragile web data. , 2:1–9, 2009.
+
+H. Ishii and R. Tempo. Distributed [P]{}age[R]{}ank computation with link failures. In [*Proc. American Control Conf.*]{}, pages 1976–1981, 2009.
+
+H. Ishii, R. Tempo, E.-W. Bai, and F. Dabbene. Distributed randomized [P]{}age[R]{}ank computation based on web aggregation.
+
+GENERATED TEXT:
+ , 2:1–10, 2008.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ In [*Proc. [48]{}th IEEE Conf. on Decision and Control and Chinese Control Conference*]{}, pages 3026–3031, 2009.
+
+A. Jadbabaie, J. Lin, and A.S. Morse. Coordination of groups of mobile autonomous agents using nearest neighbor rules. , 48:988–1001, 2003.
+
+S. Kamvar, T. Haveliwala, and G. Golub. Adaptive methods for the computation of [P]{}age[R]{}ank. , 386:51–65, 2004.
+
+A. Kashyap, T. Başar, and R. Srikant. Quantized consensus. , 43:1192–1203, 2007.
+
+G. Kollias, E. Gallopoulos, and D.B. Szyld. Asynchronous iterative computations with web information retrieval structures: [T]{}he [P]{}age[R]{}ank case. In G.R. Joubert [*et al.*]{}, editor, [*Parallel Computing:
+
+GENERATED TEXT:
+ A Level of Computing, Cambridge, MA, 9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ Current and Future Issues of High-End Computing*]{}, volume 33 of [*NIC Series*]{}, pages 309–316. John von Neumann-Institut for Computing, Julich, Germany, 2006.
+
+A.N. Langville and C.D. Meyer. . Princeton Univ. Press, 2006.
+
+Z. Lin, B.A. Francis, and M. Maggiore. Necessary and sufficient graphical conditions for formation control of unicycles. , 50:121–127, 2005.
+
+J.A. Marshall, M.E. Broucke, and B.A. Francis. Formations of vehicles in cyclic pursuit. , 49:1963–1974, 2004.
+
+L. Moreau. Stability of multiagent systems with time-dependent communication links. , 50:169–182, 2005.
+
+A. Papoulis and S.U. Pillai. . McGraw Hill, New York, 2002.
+
+Z. Qu, J. Wang, and R.A. Hull. Cooperative control of dynamical systems with application to autonomous vehicles. , 53:894–911,
+
+GENERATED TEXT:
+ 2003.
+
+A. R. Andersson,
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ 2008.
+
+W. Ren and R.W. Beard. Information consensus in multivehicle cooperative control. , 50:655–661, 2005.
+
+E. Seneta. . Springer, New York, 1981.
+
+A. Tahbaz-Salehi and A. Jadbabaie. A necessary and sufficient condition for consensus over random networks. , 53:791–795, 2008.
+
+R. Tempo, G. Calafiore, and F. Dabbene. . Springer, London, 2005.
+
+R. Tempo and H. Ishii. Monte [C]{}arlo and [L]{}as [V]{}egas randomized algorithms for systems and control: [A]{}n introduction. , 13:189–203, 2007.
+
+C.W. Wu. Synchronization and convergence of linear dynamics in random directed networks. , 51:1207–1210, 2006.
+
+C. Yu, J.M. Hendrickx, B. Fidan, B.D.O. Anderson, and V.D. Blondel. Three
+
+GENERATED TEXT:
+ dimensional data-analysis of a random number generator.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ and higher dimensional autonomous formations: [R]{}igidity, persistence and structural persistence. , 43:387–402, 2007.
+
+Y. Zhu, S. Ye, and X. Li. Distributed [P]{}age[R]{}ank computation based on iterative aggregation-disaggregation methods. In [*Proc. [14]{}th ACM Conf. on Information and Knowledge Management*]{}, pages 578–585, 2005.
+
+Appendix
+========
+
+In this appendix, following some preliminary material, the proofs of Theorems \[thm:erg\] and \[thm:approx:erg\] are given.
+
+Preliminaries
+-------------
+
+We present some results related to infinite products of stochastic matrices from [@Seneta:81; @Hartfiel:98]. These are required for the proof of Theorem \[thm:erg\] given in the next subsection.
+
+First, the notion of weak ergodicity is introduced.
+
+Given a sequence of stochastic matrices $\{P(k)\}_{k=0}^
+
+GENERATED TEXT:
+m$ with a single point $\{P(
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+{\infty}\subset\R^{n\times n}$, let their (backward) product be $T(k):=P(k)\cdots P(0)$. The sequence $\{P(k)\}_{k=0}^{\infty}$ is said to be weakly ergodic if $$t_{ri}(k) - t_{rj}(k) \rightarrow 0,~~
+          k\rightarrow \infty,~~\forall i,j,r\in\{1,\ldots,n\}.
+  \label{eqn:ergodic}$$
+
+In , $t_{ri}(k)$ for all $i$ tend to be equal as $k\rightarrow\infty$, that is, all columns of the product matrix $T(k)$ coincide in the limit. However, in general, the columns do not converge to a single vector.
+
+To characterize matrix sequences that are weakly ergodic, we employ the tool known as the coefficient of ergodicity. Let $\tau(\cdot)$ be the scalar function for stoch
+
+GENERATED TEXT:
+astic functions that are weakly ergodic. The
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+astic matrices in $\R^{n\times n}$ given by $$\tau(P) 
+   := \frac{1}{2}\max_{i,j}\sum_{r=1}^{n}\abs{p_{ri}-p_{rj}}.
+\label{eqn:tau}$$
+
+This function $\tau(\cdot)$ has the following properties.
+
+\[lem:coef\]
+
+1.  $\tau(P)\in[0,1]$ and, moreover, $\tau(P)=0$ if and only if there exists a probability vector $v\in\R^n$ such that $P=v \one^T$, where $\one=[1\;\cdots\;1]^T\in\R^n$.
+
+2.  $\tau(P) 
+    = \max\{
+           \norm{Px}_1:x\in\R^n,\norm{x}_1=1,\sum_{i}x_i=0
+    
+
+GENERATED TEXT:
+   \sinq{p_{ri}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+      \}$.
+
+3.  $\tau(PQ)\leq \tau(P)\tau(Q)$ for stochastic matrices $P,Q$.
+
+Weak ergodicity can be characterized by the following lemma.
+
+\[lem:weakerg\] For a sequence of stochastic matrices $\{P(k)\}_{k=0}^{\infty}$, their product $P(k)\cdots P(0)$ is weakly ergodic if $\tau(P(k))\leq \tau_0$ for all $k$, where $\tau_0\in(0,1)$ is a scalar.
+
+The distributed update scheme {#sec:app:B}
+-----------------------------
+
+We now analyze the proposed algorithm in Section \[sec:dist1\].
+
+\[lem:tauM\]For the distributed update scheme and its average system , the following hold.
+
+1.  The matrices $M_i$, $i\in\{1,\ldots,n\}$, and $\overline{M
+
+GENERATED TEXT:
+_i,\ldots,n^2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+}$ satisfy $\tau(M_i) < 1-\hat{m}$ and $\tau(\overline{M}) < 1-\hat{m}$.
+
+2.  For any mode sequence $\{\theta(k)\}$, the matrix sequence $\{M_{\theta(k)}\}$ is weakly ergodic.
+
+[[*Proof:*]{}]{}(i)  We show only for $\overline{M}$ since the case of $M_i$ is similar. Recall that by and , the average matrix $\overline{M}$ can be expressed as $\overline{M}= (1-\hat{m}) \overline{A} + \frac{\hat{m}}{n} S$. Thus, we have $$\begin{aligned}
+  \tau(\overline{M}) 
+   &= \frac{1}{2}\max_{i,j}\sum_{r=1}^{n}
+         \left|
+             (\overline{M})_{
+
+GENERATED TEXT:
+i,j} \right) \end{
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+ri} - (\overline{M})_{rj}
+         \right|\\
+   &= (1-\hat{m})\frac{1}{2}\max_{i,j}\sum_{r=1}^{n}
+         \left|
+             (\overline{A})_{ri} - (\overline{A})_{rj}
+         \right|
+   = (1-\hat{m})\tau(\overline{A}).\end{aligned}$$ The matrix $\overline{A}$ is stochastic, and hence, by Lemma \[lem:coef\] (i), it holds that $\tau(\overline{A})\leq 1$. Consequently, we arrive at the inequality $\tau(\overline{M})\leq 1-\hat{m}$. (ii)  This follows from (i) and Lemma \[lem:weakerg\] since $\hat{m}\in
+
+GENERATED TEXT:
+\mathbb{R}$ is the same
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+(0,1)$ by Lemma \[lem:Mbar\] (i).
+
+   Let the error from the average be $e(k) := x(k) - x^*$. Note that $e(k)$ satisfies $\sum_{i=1}^n e_i(k)=0$. This is because in the systems and , by assumption, the initial states are probability vectors, and furthermore, $M_i$, $i=1,\ldots,n$, and $\overline{M}$ are stochastic matrices; hence, both $x(k)$ and $x^*$ are nonnegative vectors whose entries add up to 1.
+
+Observe that $$\begin{aligned}
+ y(k) - x^*
+  &= \frac{1}{k+1}\sum_{\ell=0}^{k} (x(\ell) - x^*)
+   = \frac{1}{k+1}\sum_{\ell=0}^{k} e(\ell).\end{aligned}$$ Thus, $$\begin{aligned}
+ E[\norm{y(k) - x^
+
+GENERATED TEXT:
+*] =
+
+\frac{1}{
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+next_token_gen - INPUT TEXT:
+*}^2]
+  &= E\biggl[
+        \biggl\|
+          \frac{1}{k+1}\sum_{\ell=0}^{k} e(\ell)
+        \biggr\|^2
+       \biggr]   = \frac{1}{(k+1)^2}
+      E\biggl[
+        \sum_{\ell=0}^{k} e(\ell)^T e(\ell) 
+          + 2 \sum_{\ell=0}^{k-1} \sum_{r=1}^{k-\ell} e(\ell)^T e(\ell+r)
+      \biggr]\notag\\
+  &= \frac{1}{(k+1)^2}
+       \biggl\{
+        \sum_{\ell=0}^{k} E
+
+GENERATED TEXT:
+(\ell)
+
+^E \biggr
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

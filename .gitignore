@@ -1,0 +1,27 @@
+# dot files and such
+.vscode
+.venv
+.clangd
+
+# .bin files
+
+# binaries
+/output_verification_rand
+/test_gpt2
+/next_token_generation
+/local_attn_verify
+/test_gpt2_kernels
+/awq_calibration
+/awq_auto_scale
+/awq_test
+*.obj
+*.exe
+*.o
+*.bin
+
+# log files
+*.log
+*.out
+
+# error output
+*.err
