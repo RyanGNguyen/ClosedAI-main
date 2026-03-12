@@ -9,9 +9,10 @@ CUBLAS_LIBS = -L/usr/local/cuda/lib64 -lcublas -lcublasLt  -lnvToolsExt
 # Kernel files
 KERNELS = $(wildcard kernels/*.cuh)
 CPU_KERNELS = $(wildcard cpu_kernels/*.cuh)
+KERNELS_AWQ = $(wildcard kernels_awq/*.cuh)
 
 # Default target
-all: output_verification_rand test_gpt2 test_gpt2_kernels next_token_generation benchmark_attention
+all: output_verification_rand test_gpt2 test_gpt2_kernels next_token_generation benchmark_attention awq_weight_quantization awq_test
 
 
 .profiling: profiling 
@@ -52,9 +53,31 @@ benchmark_attention: kernels_req_5/benchmark_attention.cu $(KERNELS)
 	$(NVCC) $(CFLAGS) $(CUBLAS_INCLUDES) -I. -c kernels_req_5/benchmark_attention.cu -o benchmark_attention.o
 	$(NVCC) $(CFLAGS) -o benchmark_attention benchmark_attention.o $(CUBLAS_LIBS)
 
+# AWQ
+.awq_calibration: 
+awq_calibration: scripts/awq_calibration.cu $(KERNELS) $(KERNELS_AWQ)
+	$(NVCC) $(CFLAGS) $(CUBLAS_INCLUDES) -I. -c scripts/awq_calibration.cu -o awq_calibration.o
+	$(NVCC) $(CFLAGS) -o awq_calibration awq_calibration.o $(CUBLAS_LIBS)
+
+
+.awq_grid_search: awq_grid_search
+awq_grid_search: scripts/awq_grid_search.cu $(KERNELS) $(KERNELS_AWQ)
+	$(NVCC) $(CFLAGS) $(CUBLAS_INCLUDES) -I. -c scripts/awq_grid_search.cu -o awq_grid_search.o
+	$(NVCC) $(CFLAGS) -o awq_grid_search awq_grid_search.o $(CUBLAS_LIBS)
+
+.awq_weight_quantization: awq_weight_quantization
+awq_weight_quantization: scripts/awq_weight_quantization.cu $(KERNELS) $(KERNELS_AWQ)
+	$(NVCC) $(CFLAGS) $(CUBLAS_INCLUDES) -I. -c scripts/awq_weight_quantization.cu -o awq_weight_quantization.o
+	$(NVCC) $(CFLAGS) -o awq_weight_quantization awq_weight_quantization.o $(CUBLAS_LIBS)
+
+.awq_test: awq_test
+awq_test: scripts/awq_test.cu $(KERNELS) $(KERNELS_AWQ)
+	$(NVCC) $(CFLAGS) $(CUBLAS_INCLUDES) -I. -c scripts/awq_test.cu -o awq_test.o
+	$(NVCC) $(CFLAGS) -o awq_test awq_test.o $(CUBLAS_LIBS)
+
 # Clean target
 clean:
-	rm -f *.o *.err *.out output_verification_rand test_gpt2 model_output next_token_generation local_attn_verify benchmark_attention
+	rm -f *.o *.err *.out output_verification_rand test_gpt2 model_output next_token_generation local_attn_verify benchmark_attention awq_grid_search awq_weight_quantization awq_test
 
 
-.PHONY: all output_verification_rand model_output test_gpt2 test_gpt2_kernels next_token_generation local_attn_verify benchmark_attention clean
+.PHONY: all output_verification_rand model_output test_gpt2 test_gpt2_kernels next_token_generation local_attn_verify benchmark_attention awq_grid_search awq_weight_quantization awq_test clean

@@ -1,0 +1,49 @@
+═══════════════════════════════════════════════════════════════════
+               AWQ MODEL COMPARISON TEST
+═══════════════════════════════════════════════════════════════════
+
+INPUT TEXT:
+The meaning of life is
+
+───────────────────────────────────────────────────────────────────
+STANDARD GPT2 MODEL OUTPUT:
+───────────────────────────────────────────────────────────────────
+ not what it is.
+
+And yet it does not mean that God is some sort of god. In that sense, Jesus is the Christ. He is the God of all the people. He is the true God who does not simply come to
+
+Metrics:
+  - Perplexity: 9.572328
+  - Generation time: 350.66 ms
+  - Tokens/sec: 142.59
+
+───────────────────────────────────────────────────────────────────
+AWQ QUANTIZED MODEL OUTPUT:
+───────────────────────────────────────────────────────────────────
+ discourseclubclubclubclubclubclubclubclubclubclubclubclubclubclubclub"—sterclubclubclubclubclub kickerclubclubclubclubclub",clubclubclubclubclubclub discussionclubclubclubclubclubclubclubclubDiscussionclubclubbeardDiscussion
+
+Metrics:
+  - Perplexity: 7.125019
+  - Generation time: 271.94 ms
+  - Tokens/sec: 183.87
+
+═══════════════════════════════════════════════════════════════════
+              MODEL PARAMETER SIZE COMPARISON
+═══════════════════════════════════════════════════════════════════
+
+Standard GPT2 (FP32):
+  - Total parameters: 124475904
+  - Model size: 474 MiB
+
+AWQ Quantized Model:
+  - Total parameters: 125139456
+  - FP32 parameters: 40204800 (153 MiB)
+  - INT8 parameters: 84934656 (81 MiB)
+  - Total size: 234 MiB
+
+Compression Summary:
+  - Compression ratio: 2.03x
+  - Size reduction: 50.6%
+
+═══════════════════════════════════════════════════════════════════
+

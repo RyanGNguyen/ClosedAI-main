@@ -18,11 +18,7 @@ const int WMMA_M = 16;
 const int WMMA_N = 16;
 const int WMMA_K = 8;  
 
-__global__ void permute_kernel(
-    float *q, 
-    float *k, 
-    float *v, 
-    const float *__restrict__ inp, int B, int N, int NH, int d) {
+__global__ void permute_kernel(float *q, float *k, float *v, const float *inp, int B, int N, int NH, int d) {
     int b = blockIdx.x;
     int nh_idx = blockIdx.y;
     
@@ -38,7 +34,7 @@ __global__ void permute_kernel(
     }
 }
 
-__global__ void unpermute_kernel(float *__restrict__ inp, float *out, int B, int N, int NH, int d) {
+__global__ void unpermute_kernel(float *inp, float *out, int B, int N, int NH, int d) {
     int b = blockIdx.x;
     int nh_idx = blockIdx.y;
     
@@ -169,10 +165,10 @@ __device__ void compute_pv_wmma(
 }
 
 __global__ void flash_attn_kernel_tf32(
-    const float *__restrict__ Q,
-    const float *__restrict__ K,
-    const float *__restrict__ V,
-    float *__restrict__ O,
+    const float *Q,
+    const float *K,
+    const float *V,
+    float *O,
     int B,
     int H,
     int T,

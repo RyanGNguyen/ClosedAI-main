@@ -142,10 +142,10 @@ int main() {
 
         char input_filepath[512];
         char output_filepath[512];
-        snprintf(input_filepath, sizeof(input_filepath), "/work/hdd/bche/Project_GPT/local_attn_examples/example_%i.tcin", example_idx);
-        snprintf(output_filepath, sizeof(output_filepath), "/work/hdd/bche/Project_GPT/local_attn_examples/example_%i.tcout", example_idx);
-        // snprintf(input_filepath, sizeof(input_filepath), "/example_%i.tcin", example_idx);
-        // snprintf(output_filepath, sizeof(output_filepath), "/example_%i.tcout", example_idx);
+        //snprintf(input_filepath, sizeof(input_filepath), "/work/hdd/bche/Project_GPT/local_attn_examples/example_%i.tcin", example_idx);
+        //snprintf(output_filepath, sizeof(output_filepath), "/work/hdd/bche/Project_GPT/local_attn_examples/example_%i.tcout", example_idx);
+        snprintf(input_filepath, sizeof(input_filepath), "/example_%i.tcin", example_idx);
+        snprintf(output_filepath, sizeof(output_filepath), "/example_%i.tcout", example_idx);
         
         printf("\n Testing Example %d: \n", example_idx);
         

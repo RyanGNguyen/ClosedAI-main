@@ -96,6 +96,76 @@ const char *tokenizer_decode(Tokenizer *tokenizer, uint32_t token_id) {
     }
 }
 
+void get_substring_up_to_space(char *input, char *output) {
+    char *space_pos = strchr(input + 1, ' ');
+
+    if (space_pos != NULL) {
+        size_t length = space_pos - input;
+        strncpy(output, input, length);
+        // null-terminate output
+        output[length] = '\0';
+    } else {
+        // if no space, copy the entire string
+        strcpy(output, input);
+    }
+}
+
+int* tokenizer_encode(Tokenizer *tokenizer, const char *input_str, int *num_tokens) {
+    if (tokenizer->init_ok == 0) {
+        *num_tokens = 0;
+        return NULL;
+    }
+
+    // arbitrary initial number of tokens
+    int max_tokens = 128;
+    int *tokens = (int*)mallocCheck(max_tokens * sizeof(int));
+    int token_count = 0;
+
+    char temp_str[strlen(input_str) + 1];
+    strcpy(temp_str, input_str);
+
+    // pointer to keep track of the remaining string to process
+    char *remaining_input_str = temp_str;
+    while (*remaining_input_str != '\0') {
+        char to_search[100];
+        get_substring_up_to_space(remaining_input_str, to_search);
+        size_t token_len = strlen(to_search);
+
+        // try to find longest matching token from the token_table (not perfect, but probably good enough heuristic)
+        int best_token = -1;
+        int best_token_length = -1;
+        for (int i = 0; i < tokenizer->vocab_size; ++i) {
+            const char *token = tokenizer->token_table[i];
+            int tokenlen = strlen(token);
+
+            if (strncmp(to_search, token, tokenlen) == 0) {
+                if (tokenlen > best_token_length) {
+                    best_token_length = tokenlen;
+                    best_token = i;
+                }
+            }
+        }
+        assert(best_token != 0);
+        tokens[token_count++] = best_token;
+        // move the pointer ahead by the length of the token
+        remaining_input_str += best_token_length;
+
+        // if reached current tokens array capacity, resize
+        if (token_count >= max_tokens) {
+            // double the capacity
+            max_tokens *= 2;
+            tokens = (int*)realloc(tokens, max_tokens * sizeof(int));
+            if (!tokens) {
+                fprintf(stderr, "next_token_gen - Memory allocation failed during token array resizing.\n");
+                exit(EXIT_FAILURE);
+            }
+        }
+    }
+
+    *num_tokens = token_count;
+    return tokens;
+}
+
 void tokenizer_free(Tokenizer *tokenizer) {
     if (tokenizer->init_ok) {
         for (uint32_t i = 0; i < tokenizer->vocab_size; i++) {
